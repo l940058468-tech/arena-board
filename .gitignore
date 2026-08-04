@@ -1,0 +1,7 @@
+﻿.server.pid
+.research/
+lolalytics_*.html
+lolalytics_*.json
+lolalytics_main.js
+lolalytics_manifest.json
+*.lock

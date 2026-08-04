@@ -1,0 +1,10 @@
+{
+  "name": "arena-live-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "League of Legends Arena champion and augment win/pick rate board",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "start": "node server.js"
+  }
+}

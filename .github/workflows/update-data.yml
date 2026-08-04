@@ -1,0 +1,24 @@
+ name: Update Arena Data
+ on:
+   schedule:
+     - cron: '0 */12 * * *'
+   workflow_dispatch:
+ jobs:
+   scrape:
+     runs-on: ubuntu-latest
+     timeout-minutes: 30
+     steps:
+       - uses: actions/checkout@v4
+       - uses: actions/setup-node@v4
+         with:
+           node-version: '20'
+       - name: Run scraper
+         run: node scraper.js
+       - name: Copy data to public
+         run: cp data/arena-stats.json public/arena-stats.json
+       - name: Commit and push
+         run: |
+           git config user.name "github-actions[bot]"
+           git config user.email "github-actions[bot]@users.noreply.github.com"
+           git add data/arena-stats.json public/arena-stats.json
+           git diff --staged --quiet || (git commit -m "data: auto-update arena stats" && git push)

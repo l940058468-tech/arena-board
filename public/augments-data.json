@@ -1,0 +1,1190 @@
+[
+  {
+    "name": "ADAPt",
+    "nameZh": "自适应之力",
+    "rarity": "silver",
+    "effect": "获得相当于额外攻击力50%的法术强度，以及相当于额外法术强度50%的攻击力"
+  },
+  {
+    "name": "Accelerating Sorcery",
+    "nameZh": "加速巫术",
+    "rarity": "silver",
+    "effect": "每次使用技能命中敌方英雄时获得8技能急速，持续4秒（最多5层）"
+  },
+  {
+    "name": "Aim for the Head",
+    "nameZh": "瞄准头部",
+    "rarity": "silver",
+    "effect": "对生命值高于50%的敌人造成12%额外伤害"
+  },
+  {
+    "name": "All For You",
+    "nameZh": "一切为你",
+    "rarity": "silver",
+    "effect": "为距离你最近的友方英雄提供你15%的攻击力和法术强度"
+  },
+  {
+    "name": "And My Axe!",
+    "nameZh": "还有我的斧头！",
+    "rarity": "silver",
+    "effect": "每次普攻附带相当于目标最大生命值1.5%的额外物理伤害"
+  },
+  {
+    "name": "Apex Inventor",
+    "nameZh": "顶尖发明家",
+    "rarity": "silver",
+    "effect": "获得300装备急速"
+  },
+  {
+    "name": "Augmented Power",
+    "nameZh": "强化之力",
+    "rarity": "silver",
+    "effect": "获得12%额外攻击力和法术强度"
+  },
+  {
+    "name": "Back To Basics",
+    "nameZh": "返璞归真",
+    "rarity": "silver",
+    "effect": "基础技能造成30%额外伤害，但无法使用终极技能"
+  },
+  {
+    "name": "Banner of Command",
+    "nameZh": "号令之旗",
+    "rarity": "silver",
+    "effect": "召唤一个攻城炮车为你作战"
+  },
+  {
+    "name": "Blunt Force",
+    "nameZh": "钝器猛击",
+    "rarity": "silver",
+    "effect": "普攻对目标周围的敌人造成30%溅射伤害"
+  },
+  {
+    "name": "Bodyguard",
+    "nameZh": "贴身保镖",
+    "rarity": "silver",
+    "effect": "对队友施加护盾或治疗时使其获得15%伤害减免持续3秒"
+  },
+  {
+    "name": "Bread And Butter",
+    "nameZh": "黄油面包",
+    "rarity": "silver",
+    "effect": "普攻额外造成20(+10%攻击力)魔法伤害"
+  },
+  {
+    "name": "Bread And Cheese",
+    "nameZh": "奶酪面包",
+    "rarity": "silver",
+    "effect": "普攻额外造成15(+10%法术强度)物理伤害"
+  },
+  {
+    "name": "Bread And Jam",
+    "nameZh": "果酱面包",
+    "rarity": "silver",
+    "effect": "普攻额外造成10(+5%攻击力+5%法术强度)真实伤害"
+  },
+  {
+    "name": "Bread Sandwich",
+    "nameZh": "面包三明治",
+    "rarity": "silver",
+    "effect": "普攻额外造成混合伤害"
+  },
+  {
+    "name": "Buff Buddies",
+    "nameZh": "增益伙伴",
+    "rarity": "silver",
+    "effect": "你获得的增益效果也施加给最近队友（效果50%）"
+  },
+  {
+    "name": "Cannon Fodder",
+    "nameZh": "炮灰",
+    "rarity": "silver",
+    "effect": "召唤一个小兵跟随你作战"
+  },
+  {
+    "name": "Castle",
+    "nameZh": "城堡",
+    "rarity": "silver",
+    "effect": "静止2秒后获得格挡一次技能的护盾（冷却30秒）"
+  },
+  {
+    "name": "Celestial Body",
+    "nameZh": "星界躯体",
+    "rarity": "silver",
+    "effect": "获得300生命值，但伤害降低10%"
+  },
+  {
+    "name": "Center of the Universe",
+    "nameZh": "宇宙中心",
+    "rarity": "silver",
+    "effect": "三颗星辰环绕你，对接触敌人造成魔法伤害"
+  },
+  {
+    "name": "Cerberus",
+    "nameZh": "刻耳柏洛斯",
+    "rarity": "silver",
+    "effect": "重伤效果延长50%且治疗削减增至60%"
+  },
+  {
+    "name": "Chauffeur",
+    "nameZh": "专属司机",
+    "rarity": "silver",
+    "effect": "召唤战车，骑乘时获得额外移速和护盾"
+  },
+  {
+    "name": "Circle of Death",
+    "nameZh": "死亡之舞",
+    "rarity": "silver",
+    "effect": "周围光环每秒对敌人造成伤害"
+  },
+  {
+    "name": "Clothesline",
+    "nameZh": "晾衣绳",
+    "rarity": "silver",
+    "effect": "普攻有25%几率使敌人定身0.5秒"
+  },
+  {
+    "name": "Clown College",
+    "nameZh": "小丑学院",
+    "rarity": "silver",
+    "effect": "使用位移后留下惊吓盒，1秒后恐惧附近敌人"
+  },
+  {
+    "name": "Combo Master",
+    "nameZh": "连招达人",
+    "rarity": "silver",
+    "effect": "连续使用不同基础技能时第三个造成40%额外伤害"
+  },
+  {
+    "name": "Contract Killer",
+    "nameZh": "契约杀手",
+    "rarity": "silver",
+    "effect": "对生命值最低的敌人造成20%额外伤害"
+  },
+  {
+    "name": "Courage of the Colossus",
+    "nameZh": "巨像勇气",
+    "rarity": "silver",
+    "effect": "对敌方英雄施加硬控时获得护盾"
+  },
+  {
+    "name": "Critical Healing",
+    "nameZh": "暴击治疗",
+    "rarity": "silver",
+    "effect": "治疗和护盾效果可以暴击造成175%效果"
+  },
+  {
+    "name": "Dark Blessing",
+    "nameZh": "黑暗赐福",
+    "rarity": "silver",
+    "effect": "获得相当于额外生命值3%的攻击力和法术强度"
+  },
+  {
+    "name": "Dashing",
+    "nameZh": "冲刺",
+    "rarity": "silver",
+    "effect": "获得30移动速度和20%减速抗性"
+  },
+  {
+    "name": "Deathtouch",
+    "nameZh": "死亡之触",
+    "rarity": "silver",
+    "effect": "伤害型技能施加可叠加重伤效果"
+  },
+  {
+    "name": "Defensive Maneuvers",
+    "nameZh": "防御机动",
+    "rarity": "silver",
+    "effect": "使用位移后获得20%伤害减免持续2秒"
+  },
+  {
+    "name": "Deft",
+    "nameZh": "灵巧",
+    "rarity": "silver",
+    "effect": "获得20%攻速，每次普攻减少基础技能0.15秒冷却"
+  },
+  {
+    "name": "Dematerialize",
+    "nameZh": "虚空物质",
+    "rarity": "silver",
+    "effect": "普攻额外造成相当于目标最大生命值2%的魔法伤害"
+  },
+  {
+    "name": "Despoil",
+    "nameZh": "掠夺",
+    "rarity": "silver",
+    "effect": "击杀小兵/野怪获得额外5金币，击杀英雄获得额外50金币"
+  },
+  {
+    "name": "Die Another Day",
+    "nameZh": "择日再死",
+    "rarity": "silver",
+    "effect": "受到致命伤害时凝滞2.5秒并回复30%最大生命值（冷却180秒）"
+  },
+  {
+    "name": "Dive Bomber",
+    "nameZh": "俯冲轰炸",
+    "rarity": "silver",
+    "effect": "使用位移后下一次普攻造成额外伤害"
+  },
+  {
+    "name": "Divine Intervention",
+    "nameZh": "神圣干预",
+    "rarity": "silver",
+    "effect": "治疗和护盾效果提升20%"
+  },
+  {
+    "name": "Doomsayer",
+    "nameZh": "末日预言者",
+    "rarity": "silver",
+    "effect": "伤害使敌人获得标记，叠满3层爆炸"
+  },
+  {
+    "name": "Draw Your Sword",
+    "nameZh": "拔剑",
+    "rarity": "silver",
+    "effect": "进入战斗后攻击力持续增长最高15%"
+  },
+  {
+    "name": "Dreadbringer",
+    "nameZh": "恐惧使者",
+    "rarity": "silver",
+    "effect": "对移动受限的敌人造成15%额外伤害"
+  },
+  {
+    "name": "Earthwake",
+    "nameZh": "大地震颤",
+    "rarity": "silver",
+    "effect": "使用位移后在起点和终点各产生震荡波"
+  },
+  {
+    "name": "Energetic",
+    "nameZh": "精力充沛",
+    "rarity": "silver",
+    "effect": "生命值高于70%时获得20%移速和15%攻速"
+  },
+  {
+    "name": "Erosion",
+    "nameZh": "侵蚀",
+    "rarity": "silver",
+    "effect": "每次技能命中降低目标2双抗持续5秒（最多10层）"
+  },
+  {
+    "name": "Ethereal Weapon",
+    "nameZh": "灵体武器",
+    "rarity": "silver",
+    "effect": "普攻额外造成魔法伤害"
+  },
+  {
+    "name": "Executioner",
+    "nameZh": "刽子手",
+    "rarity": "silver",
+    "effect": "对生命值低于30%的敌人造成25%额外伤害"
+  },
+  {
+    "name": "Extendo-Arm",
+    "nameZh": "延伸之臂",
+    "rarity": "silver",
+    "effect": "获得额外50攻击距离"
+  },
+  {
+    "name": "Fallen Aegis",
+    "nameZh": "堕落圣盾",
+    "rarity": "silver",
+    "effect": "获得吸收伤害的护盾（冷却30秒）"
+  },
+  {
+    "name": "Fan the Hammer",
+    "nameZh": "连发射击",
+    "rarity": "silver",
+    "effect": "每次普攻有30%几率额外攻击一次造成60%伤害"
+  },
+  {
+    "name": "Feel the Burn",
+    "nameZh": "感受灼烧",
+    "rarity": "silver",
+    "effect": "技能命中灼烧目标3秒内造成额外魔法伤害"
+  },
+  {
+    "name": "Fey Magic",
+    "nameZh": "仙灵魔法",
+    "rarity": "silver",
+    "effect": "获得100技能急速（仅基础技能）"
+  },
+  {
+    "name": "Fire Sale",
+    "nameZh": "大甩卖",
+    "rarity": "silver",
+    "effect": "商店物品价格降低20%"
+  },
+  {
+    "name": "Firebrand",
+    "nameZh": "煽动者",
+    "rarity": "silver",
+    "effect": "技能命中施加灼烧，叠满3层造成伤害"
+  },
+  {
+    "name": "Firefox",
+    "nameZh": "火狐",
+    "rarity": "silver",
+    "effect": "获得火狐伙伴攻击你的目标"
+  },
+  {
+    "name": "First-Aid Kit",
+    "nameZh": "急救包",
+    "rarity": "silver",
+    "effect": "可使用治疗物品回复20%已损失生命值（冷却60秒）"
+  },
+  {
+    "name": "Flashy",
+    "nameZh": "花哨",
+    "rarity": "silver",
+    "effect": "使用位移后获得30%移速持续2秒"
+  },
+  {
+    "name": "From Beginning to End",
+    "nameZh": "从始至终",
+    "rarity": "silver",
+    "effect": "战斗开始和结束时各获得一层护盾"
+  },
+  {
+    "name": "Frost Wraith",
+    "nameZh": "冰霜幽魂",
+    "rarity": "silver",
+    "effect": "技能命中减速敌人30%持续2秒"
+  },
+  {
+    "name": "Fruits of Your Labor",
+    "nameZh": "劳动果实",
+    "rarity": "silver",
+    "effect": "每获得1000金币永久获得2攻击力和2法术强度"
+  },
+  {
+    "name": "Gamba Anvil",
+    "nameZh": "赌博铁砧",
+    "rarity": "silver",
+    "effect": "获得一个随机神话装备被动效果"
+  },
+  {
+    "name": "Giant Slayer",
+    "nameZh": "巨杀",
+    "rarity": "silver",
+    "effect": "对生命值高于你的敌人造成最多20%额外伤害"
+  },
+  {
+    "name": "Goredrink",
+    "nameZh": "血饮",
+    "rarity": "silver",
+    "effect": "普攻回复相当于造成伤害8%的生命值"
+  },
+  {
+    "name": "Grievous Venom",
+    "nameZh": "重伤毒液",
+    "rarity": "silver",
+    "effect": "伤害施加40%重伤效果持续5秒"
+  },
+  {
+    "name": "Guilty Pleasure",
+    "nameZh": "罪恶快感",
+    "rarity": "silver",
+    "effect": "击杀单位后获得15%移速和10%攻速持续3秒"
+  },
+  {
+    "name": "Hat Trick",
+    "nameZh": "帽子戏法",
+    "rarity": "silver",
+    "effect": "每第三次普攻造成额外物理伤害"
+  },
+  {
+    "name": "Heavy Hitter",
+    "nameZh": "重击手",
+    "rarity": "silver",
+    "effect": "普攻额外造成物理伤害并减速15%持续1秒"
+  },
+  {
+    "name": "Hive Mind",
+    "nameZh": "群体心智",
+    "rarity": "silver",
+    "effect": "附近有队友时获得10%伤害减免和10%伤害提升"
+  },
+  {
+    "name": "Hold Very Still",
+    "nameZh": "不许动",
+    "rarity": "silver",
+    "effect": "对定身或减速的敌人造成20%额外伤害"
+  },
+  {
+    "name": "Holy Fire",
+    "nameZh": "圣火",
+    "rarity": "silver",
+    "effect": "每4秒对附近敌人造成魔法伤害并回复等量生命值"
+  },
+  {
+    "name": "Homeguard",
+    "nameZh": "家园卫士",
+    "rarity": "silver",
+    "effect": "在基地附近获得大量移速加成"
+  },
+  {
+    "name": "Hybrid",
+    "nameZh": "混合流",
+    "rarity": "silver",
+    "effect": "获得15%额外攻击力和法术强度"
+  },
+  {
+    "name": "Ice Cold",
+    "nameZh": "冰冷",
+    "rarity": "silver",
+    "effect": "受到伤害时使攻击者减速20%持续2秒"
+  },
+  {
+    "name": "Impassable",
+    "nameZh": "不可逾越",
+    "rarity": "silver",
+    "effect": "获得20%最大生命值和15%体型"
+  },
+  {
+    "name": "Juice Box",
+    "nameZh": "果汁盒",
+    "rarity": "silver",
+    "effect": "受到致命伤害时回复20%最大生命值（冷却120秒）"
+  },
+  {
+    "name": "Keystone Conjurer",
+    "nameZh": "基石召唤师",
+    "rarity": "silver",
+    "effect": "可选择一个额外的基石符文"
+  },
+  {
+    "name": "Laser Eyes",
+    "nameZh": "激光眼",
+    "rarity": "silver",
+    "effect": "每8秒对前方敌人造成伤害"
+  },
+  {
+    "name": "Leg Day",
+    "nameZh": "练腿日",
+    "rarity": "silver",
+    "effect": "使用位移后获得20%移速和护盾"
+  },
+  {
+    "name": "Light Warden",
+    "nameZh": "光明守望者",
+    "rarity": "silver",
+    "effect": "获得护盾时额外获得5%最大生命值护盾"
+  },
+  {
+    "name": "Mad Scientist",
+    "nameZh": "疯狂科学家",
+    "rarity": "silver",
+    "effect": "装备主动技能冷却时间减少50%"
+  },
+  {
+    "name": "Magic Missile",
+    "nameZh": "魔法飞弹",
+    "rarity": "silver",
+    "effect": "普攻额外发射飞弹造成魔法伤害"
+  },
+  {
+    "name": "Magical Girl",
+    "nameZh": "魔法少女",
+    "rarity": "silver",
+    "effect": "获得20%冷却缩减和10%移速"
+  },
+  {
+    "name": "Marksmage",
+    "nameZh": "射手法师",
+    "rarity": "silver",
+    "effect": "远距离普攻获得额外伤害"
+  },
+  {
+    "name": "Master of Duality",
+    "nameZh": "二元大师",
+    "rarity": "silver",
+    "effect": "攻击力和法术强度中较高的一项提升20%"
+  },
+  {
+    "name": "Mind to Matter",
+    "nameZh": "心物转化",
+    "rarity": "silver",
+    "effect": "获得相当于额外法力值5%的法术强度"
+  },
+  {
+    "name": "Minionmancer",
+    "nameZh": "小兵法师",
+    "rarity": "silver",
+    "effect": "每15秒召唤一个小兵为你作战"
+  },
+  {
+    "name": "Mirror Image",
+    "nameZh": "镜像",
+    "rarity": "silver",
+    "effect": "使用位移后留下幻象2.5秒造成30%伤害"
+  },
+  {
+    "name": "Mystic Punch",
+    "nameZh": "秘术重拳",
+    "rarity": "silver",
+    "effect": "普攻减少所有技能冷却时间0.5秒"
+  },
+  {
+    "name": "Nesting Doll",
+    "nameZh": "套娃",
+    "rarity": "silver",
+    "effect": "死亡时复活但最大生命值降低30%（每场最多3次）"
+  },
+  {
+    "name": "Now You See Me",
+    "nameZh": "现隐无常",
+    "rarity": "silver",
+    "effect": "使用位移后进入隐身1.5秒"
+  },
+  {
+    "name": "Numb to Pain",
+    "nameZh": "麻木不仁",
+    "rarity": "silver",
+    "effect": "获得相当于额外双抗10%的伤害减免"
+  },
+  {
+    "name": "OK Boomerang",
+    "nameZh": "回旋镖",
+    "rarity": "silver",
+    "effect": "普攻有25%几率发射回旋镖"
+  },
+  {
+    "name": "Oathsworn",
+    "nameZh": "誓约者",
+    "rarity": "silver",
+    "effect": "与队友互相获得5%伤害提升和5%伤害减免"
+  },
+  {
+    "name": "Orbital Laser",
+    "nameZh": "轨道激光",
+    "rarity": "silver",
+    "effect": "每15秒从天空射下激光造成伤害"
+  },
+  {
+    "name": "Overflow",
+    "nameZh": "溢出",
+    "rarity": "silver",
+    "effect": "溢出的治疗转化为护盾最高20%最大生命值"
+  },
+  {
+    "name": "Panic Room",
+    "nameZh": "恐慌室",
+    "rarity": "silver",
+    "effect": "生命值低于30%时获得护盾（冷却90秒）"
+  },
+  {
+    "name": "Perseverance",
+    "nameZh": "坚持不懈",
+    "rarity": "silver",
+    "effect": "受到伤害后获得2%伤害减免持续6秒（最多10层）"
+  },
+  {
+    "name": "Rabble Rousing",
+    "nameZh": "乌合之众",
+    "rarity": "silver",
+    "effect": "每8秒召唤一个小兵加入战斗"
+  },
+  {
+    "name": "Recursion",
+    "nameZh": "递归",
+    "rarity": "silver",
+    "effect": "使用技能时有20%几率重置该技能冷却"
+  },
+  {
+    "name": "Repulsor",
+    "nameZh": "排斥器",
+    "rarity": "silver",
+    "effect": "每15秒释放冲击波击退附近敌人"
+  },
+  {
+    "name": "Restart",
+    "nameZh": "重新开始",
+    "rarity": "silver",
+    "effect": "第一次死亡后立即在基地复活"
+  },
+  {
+    "name": "Restless Restoration",
+    "nameZh": "不息恢复",
+    "rarity": "silver",
+    "effect": "脱离战斗后每秒回复2%已损失生命值"
+  },
+  {
+    "name": "Righteous Fury",
+    "nameZh": "正义之怒",
+    "rarity": "silver",
+    "effect": "对控制你的敌人造成伤害"
+  },
+  {
+    "name": "Scopiest Weapons",
+    "nameZh": "瞄准镜武器",
+    "rarity": "silver",
+    "effect": "获得额外攻击距离随暴击率增长（最多75）"
+  },
+  {
+    "name": "Searing Dawn",
+    "nameZh": "灼热黎明",
+    "rarity": "silver",
+    "effect": "每15秒对周围敌人造成伤害并致盲1秒"
+  },
+  {
+    "name": "Self Destruct",
+    "nameZh": "自毁",
+    "rarity": "silver",
+    "effect": "死亡时自爆造成真实伤害"
+  },
+  {
+    "name": "Serve Beyond Death",
+    "nameZh": "死后效力",
+    "rarity": "silver",
+    "effect": "死亡后可在灵魂形态下继续使用技能3秒"
+  },
+  {
+    "name": "Shadow Runner",
+    "nameZh": "暗影疾跑",
+    "rarity": "silver",
+    "effect": "进入战斗获得20%持续衰减的移速"
+  },
+  {
+    "name": "Shrink Ray",
+    "nameZh": "缩小射线",
+    "rarity": "silver",
+    "effect": "普攻有20%几率缩小目标降低30%伤害3秒"
+  },
+  {
+    "name": "Silver Spoon",
+    "nameZh": "银汤匙",
+    "rarity": "silver",
+    "effect": "游戏开始时获得额外300金币"
+  },
+  {
+    "name": "Skilled Sniper",
+    "nameZh": "熟练狙击手",
+    "rarity": "silver",
+    "effect": "对远处敌人伤害+15%，近处敌人伤害-10%"
+  },
+  {
+    "name": "Slap Around",
+    "nameZh": "扇耳光",
+    "rarity": "silver",
+    "effect": "普攻有20%几率击退目标"
+  },
+  {
+    "name": "Slime Time",
+    "nameZh": "黏液时刻",
+    "rarity": "silver",
+    "effect": "使用位移后留下黏液减速敌人30%持续2秒"
+  },
+  {
+    "name": "Slow Cooker",
+    "nameZh": "慢炖",
+    "rarity": "silver",
+    "effect": "对减速的敌人造成持续增加的伤害"
+  },
+  {
+    "name": "Sonic Boom",
+    "nameZh": "音爆",
+    "rarity": "silver",
+    "effect": "每8秒释放音爆造成伤害并减速30%"
+  },
+  {
+    "name": "Soul Siphon",
+    "nameZh": "灵魂虹吸",
+    "rarity": "silver",
+    "effect": "击杀单位回复3%最大生命值和2%最大法力值"
+  },
+  {
+    "name": "Spellwake",
+    "nameZh": "法术余波",
+    "rarity": "silver",
+    "effect": "技能命中后留下持续3秒的伤害区域"
+  },
+  {
+    "name": "Spin To Win",
+    "nameZh": "旋转至胜",
+    "rarity": "silver",
+    "effect": "普攻有25%几率对周围所有敌人造成伤害"
+  },
+  {
+    "name": "Spirit Link",
+    "nameZh": "灵魂链接",
+    "rarity": "silver",
+    "effect": "与最近队友链接获得8%伤害减免和5%伤害提升"
+  },
+  {
+    "name": "Stackosaurus Rex",
+    "nameZh": "叠叠暴龙",
+    "rarity": "silver",
+    "effect": "每层增益效果额外提供1%对应属性"
+  },
+  {
+    "name": "Stats on Stats on Stats!",
+    "nameZh": "属性叠属性叠属性！",
+    "rarity": "silver",
+    "effect": "获得5攻击力/法强/护甲/魔抗，每级+1"
+  },
+  {
+    "name": "Stats on Stats!",
+    "nameZh": "属性叠属性！",
+    "rarity": "silver",
+    "effect": "获得8攻击力/法强/护甲/魔抗"
+  },
+  {
+    "name": "Stats!",
+    "nameZh": "属性！",
+    "rarity": "silver",
+    "effect": "获得10攻击力/法强/护甲/魔抗"
+  },
+  {
+    "name": "Summoner Revolution",
+    "nameZh": "召唤师革命",
+    "rarity": "silver",
+    "effect": "召唤师技能冷却时间减少40%"
+  },
+  {
+    "name": "Symbiotic Mutation",
+    "nameZh": "共生突变",
+    "rarity": "silver",
+    "effect": "与最近队友共享5%护甲和魔抗"
+  },
+  {
+    "name": "Symphony of War",
+    "nameZh": "战争律动",
+    "rarity": "silver",
+    "effect": "战斗中每3秒获得1%伤害提升（最多20层）"
+  },
+  {
+    "name": "Tank Engine",
+    "nameZh": "坦克引擎",
+    "rarity": "silver",
+    "effect": "移动时获得逐渐增长的双抗（最多20）"
+  },
+  {
+    "name": "Tank It Or Leave It",
+    "nameZh": "肉就完了",
+    "rarity": "silver",
+    "effect": "20%所受伤害延迟在3秒内承受"
+  },
+  {
+    "name": "Tap Dancer",
+    "nameZh": "踢踏舞者",
+    "rarity": "silver",
+    "effect": "移动时获得10%攻速持续4秒（最多3层）"
+  },
+  {
+    "name": "The Brutalizer",
+    "nameZh": "残暴者",
+    "rarity": "silver",
+    "effect": "获得12穿甲和6法术穿透"
+  },
+  {
+    "name": "Thread the Needle",
+    "nameZh": "穿针引线",
+    "rarity": "silver",
+    "effect": "范围技能伤害提升20%"
+  },
+  {
+    "name": "Tormentor",
+    "nameZh": "折磨者",
+    "rarity": "silver",
+    "effect": "对被控制的敌人造成20%额外伤害"
+  },
+  {
+    "name": "Trailblazer",
+    "nameZh": "开拓者",
+    "rarity": "silver",
+    "effect": "移动时留下火焰路径灼烧敌人"
+  },
+  {
+    "name": "Trickster Demon",
+    "nameZh": "诡计恶魔",
+    "rarity": "silver",
+    "effect": "使用技能后短暂隐身0.75秒（冷却10秒）"
+  },
+  {
+    "name": "Trueshot Prodigy",
+    "nameZh": "精准射击天才",
+    "rarity": "silver",
+    "effect": "单体目标技能伤害提升25%"
+  },
+  {
+    "name": "Twice Thrice",
+    "nameZh": "二重三重",
+    "rarity": "silver",
+    "effect": "每第三次使用同一技能时额外释放一次（50%伤害）"
+  },
+  {
+    "name": "Typhoon",
+    "nameZh": "台风",
+    "rarity": "silver",
+    "effect": "普攻有20%几率击飞目标0.5秒"
+  },
+  {
+    "name": "Ultimate Revolution",
+    "nameZh": "终极技能革命",
+    "rarity": "silver",
+    "effect": "终极技能冷却时间减少30%"
+  },
+  {
+    "name": "Ultimate Unstoppable",
+    "nameZh": "终极不可阻挡",
+    "rarity": "silver",
+    "effect": "施放终极技能期间获得不可阻挡和20%减伤"
+  },
+  {
+    "name": "Undying Guard",
+    "nameZh": "不死守卫",
+    "rarity": "silver",
+    "effect": "受到致命伤害时获得无敌2秒（冷却180秒）"
+  },
+  {
+    "name": "Unshackled",
+    "nameZh": "解除束缚",
+    "rarity": "silver",
+    "effect": "获得40%减速抗性和25%韧性"
+  },
+  {
+    "name": "Vanish",
+    "nameZh": "消失",
+    "rarity": "silver",
+    "effect": "生命值低于30%时隐身2秒（冷却60秒）"
+  },
+  {
+    "name": "Vengeance",
+    "nameZh": "复仇",
+    "rarity": "silver",
+    "effect": "储存10%所受伤害，下次普攻释放"
+  },
+  {
+    "name": "Vulnerability",
+    "nameZh": "易伤",
+    "rarity": "silver",
+    "effect": "技能命中使目标受伤+8%持续3秒"
+  },
+  {
+    "name": "Warmup Routine",
+    "nameZh": "热身运动",
+    "rarity": "silver",
+    "effect": "战斗中属性逐渐提升（最多15%全属性）"
+  },
+  {
+    "name": "Willing Sacrifice",
+    "nameZh": "自愿牺牲",
+    "rarity": "silver",
+    "effect": "转移30%所受伤害给誓约队友"
+  },
+  {
+    "name": "Wisdom of Ages",
+    "nameZh": "岁月智慧",
+    "rarity": "silver",
+    "effect": "获得额外经验值更快升级"
+  },
+  {
+    "name": "Witchful Thinking",
+    "nameZh": "邪恶思维",
+    "rarity": "silver",
+    "effect": "获得12%额外法术强度但攻击力降低6%"
+  },
+  {
+    "name": "With Haste",
+    "nameZh": "急速",
+    "rarity": "silver",
+    "effect": "获得20技能急速"
+  },
+  {
+    "name": "escAPADe",
+    "nameZh": "逃脱",
+    "rarity": "silver",
+    "effect": "受到致命伤害时闪烁到安全位置（冷却180秒）"
+  },
+  {
+    "name": "Big Brain",
+    "nameZh": "大头",
+    "rarity": "gold",
+    "effect": "获得额外20%法术强度，法术强度使普攻附带魔法伤害"
+  },
+  {
+    "name": "Blade Waltz",
+    "nameZh": "刃舞",
+    "rarity": "gold",
+    "effect": "暴击时获得20%攻速持续3秒（最多3层）"
+  },
+  {
+    "name": "Blood Brother",
+    "nameZh": "血亲兄弟",
+    "rarity": "gold",
+    "effect": "对敌方英雄伤害的15%转化为对最近队友的治疗"
+  },
+  {
+    "name": "Bravest of the Brave",
+    "nameZh": "勇中之勇",
+    "rarity": "gold",
+    "effect": "作为队伍唯一存活者时获得20%伤害提升和20%伤害减免"
+  },
+  {
+    "name": "Dawnbringer's Resolve",
+    "nameZh": "黎明使者的决心",
+    "rarity": "gold",
+    "effect": "受到致命伤害时回复30%最大生命值并获得30%移速（冷却150秒）"
+  },
+  {
+    "name": "Demon's Dance",
+    "nameZh": "恶魔之舞",
+    "rarity": "gold",
+    "effect": "对敌方英雄造成伤害后获得每层3%伤害减免（最多5层）"
+  },
+  {
+    "name": "Desecrator",
+    "nameZh": "亵渎者",
+    "rarity": "gold",
+    "effect": "击杀英雄后在位置留下亵渎区域造成持续伤害"
+  },
+  {
+    "name": "Don't Blink",
+    "nameZh": "别眨眼",
+    "rarity": "gold",
+    "effect": "使用位移后下一次普攻必定暴击"
+  },
+  {
+    "name": "Don't Chase",
+    "nameZh": "别追",
+    "rarity": "gold",
+    "effect": "撤退时获得40%移速和20%伤害减免"
+  },
+  {
+    "name": "Dual Wield",
+    "nameZh": "双持",
+    "rarity": "gold",
+    "effect": "普攻有40%几率攻击两次，攻速降低25%"
+  },
+  {
+    "name": "Eureka",
+    "nameZh": "灵光乍现",
+    "rarity": "gold",
+    "effect": "升级时回复100%生命值和法力值并获得30%全属性加成15秒"
+  },
+  {
+    "name": "Fallen Aegis",
+    "nameZh": "堕落圣盾",
+    "rarity": "gold",
+    "effect": "护盾破碎时释放能量波造成范围魔法伤害"
+  },
+  {
+    "name": "Goliath",
+    "nameZh": "歌利亚巨人",
+    "rarity": "gold",
+    "effect": "获得25%最大生命值加成和15%体型增大"
+  },
+  {
+    "name": "Infernal Conduit",
+    "nameZh": "地狱导管",
+    "rarity": "gold",
+    "effect": "储存10%所受伤害，下次技能释放额外造成该伤害"
+  },
+  {
+    "name": "Infernal Soul",
+    "nameZh": "地狱龙魂",
+    "rarity": "gold",
+    "effect": "击杀或助攻在尸体位置产生范围爆炸伤害"
+  },
+  {
+    "name": "It's Critical",
+    "nameZh": "致命节奏",
+    "rarity": "gold",
+    "effect": "获得25%暴击几率，暴击伤害提升至175%"
+  },
+  {
+    "name": "It's Killing Time",
+    "nameZh": "杀戮时间",
+    "rarity": "gold",
+    "effect": "参与击杀后获得20%移速和10%全能吸血持续8秒"
+  },
+  {
+    "name": "Jeweled Gauntlet",
+    "nameZh": "珠光护手",
+    "rarity": "gold",
+    "effect": "技能可以暴击。获得30%暴击几率，暴击伤害为150%"
+  },
+  {
+    "name": "Light 'em Up!",
+    "nameZh": "点燃他们！",
+    "rarity": "gold",
+    "effect": "暴击对目标附近敌人造成50%溅射伤害"
+  },
+  {
+    "name": "Lightning Strikes",
+    "nameZh": "闪电打击",
+    "rarity": "gold",
+    "effect": "每第三次普攻释放连锁闪电弹射至2个敌人"
+  },
+  {
+    "name": "Mountain Soul",
+    "nameZh": "山脉龙魂",
+    "rarity": "gold",
+    "effect": "脱离战斗后获得相当于15%最大生命值的护盾"
+  },
+  {
+    "name": "Ocean Soul",
+    "nameZh": "海洋龙魂",
+    "rarity": "gold",
+    "effect": "造成伤害时回复相当于造成伤害8%的生命值"
+  },
+  {
+    "name": "Omni Soul",
+    "nameZh": "全能龙魂",
+    "rarity": "gold",
+    "effect": "随机获得一种元素龙魂效果（每回合重新随机）"
+  },
+  {
+    "name": "Outlaw's Grit",
+    "nameZh": "法外狂徒的坚韧",
+    "rarity": "gold",
+    "effect": "每损失10%生命值获得3%伤害减免和2%伤害提升"
+  },
+  {
+    "name": "Parasitic Mutation",
+    "nameZh": "寄生突变",
+    "rarity": "gold",
+    "effect": "对敌方英雄造成伤害时窃取2%攻击力和法强持续6秒"
+  },
+  {
+    "name": "Parasitic Relationship",
+    "nameZh": "寄生关系",
+    "rarity": "gold",
+    "effect": "对敌方英雄造成伤害转移5%生命值给你和队友"
+  },
+  {
+    "name": "Phenomenal Evil",
+    "nameZh": "超凡邪力",
+    "rarity": "gold",
+    "effect": "使用技能命中敌方英雄后永久获得1法术强度"
+  },
+  {
+    "name": "Prismatic Egg",
+    "nameZh": "棱彩之蛋",
+    "rarity": "gold",
+    "effect": "获得棱彩蛋，3回合后孵化获得随机棱彩强化"
+  },
+  {
+    "name": "Quantum Computing",
+    "nameZh": "量子计算",
+    "rarity": "gold",
+    "effect": "冷却时间减少25%且不受冷却缩减上限限制"
+  },
+  {
+    "name": "Quest: Angel of Retribution",
+    "nameZh": "任务：复仇天使",
+    "rarity": "gold",
+    "effect": "任务：参与8次击杀。奖励：天使复活能力"
+  },
+  {
+    "name": "Quest: Mad Hatter",
+    "nameZh": "任务：疯狂帽匠",
+    "rarity": "gold",
+    "effect": "任务：获得5000金币。奖励：大幅提升法术强度"
+  },
+  {
+    "name": "Quest: Rite Of The Forge God",
+    "nameZh": "任务：锻造之神的仪式",
+    "rarity": "gold",
+    "effect": "任务：购买4件传说装备。奖励：奥恩升级杰作装备"
+  },
+  {
+    "name": "Quest: Steel Your Heart",
+    "nameZh": "任务：钢铁合剂",
+    "rarity": "gold",
+    "effect": "任务：承受15000伤害。奖励：大量生命值和体型"
+  },
+  {
+    "name": "Quest: Three Sacred Treasures",
+    "nameZh": "任务：三大圣器",
+    "rarity": "gold",
+    "effect": "任务：击杀3个不同敌人。奖励：三相之力被动"
+  },
+  {
+    "name": "Quest: Urf's Champion",
+    "nameZh": "任务：海牛斗士",
+    "rarity": "gold",
+    "effect": "任务：施放终极技能10次。奖励：终极技能冷却-50%"
+  },
+  {
+    "name": "Quest: Wooglet's Witchcap",
+    "nameZh": "任务：巫祸之帽",
+    "rarity": "gold",
+    "effect": "任务：造成30000魔法伤害。奖励：大幅提升法术强度"
+  },
+  {
+    "name": "Raid Boss",
+    "nameZh": "团本首领",
+    "rarity": "gold",
+    "effect": "附近至少2名敌方英雄时获得15%伤害提升和减免"
+  },
+  {
+    "name": "Summoner's Roulette",
+    "nameZh": "召唤师轮盘",
+    "rarity": "gold",
+    "effect": "每回合随机更换一个召唤师技能"
+  },
+  {
+    "name": "Ultimate Roulette",
+    "nameZh": "终极轮盘",
+    "rarity": "gold",
+    "effect": "每回合随机更换终极技能"
+  },
+  {
+    "name": "Can't Touch This",
+    "nameZh": "无法触碰",
+    "rarity": "prismatic",
+    "effect": "获得40%闪避几率（无法闪避技能）"
+  },
+  {
+    "name": "Jeweled Gauntlet",
+    "nameZh": "珠光护手",
+    "rarity": "prismatic",
+    "effect": "技能可以暴击。获得50%暴击几率，暴击伤害为160%"
+  },
+  {
+    "name": "Pandora's Box",
+    "nameZh": "潘多拉魔盒",
+    "rarity": "prismatic",
+    "effect": "获得一件随机棱彩装备，每3回合更换一次"
+  },
+  {
+    "name": "Phenomenal Evil",
+    "nameZh": "超凡邪力",
+    "rarity": "prismatic",
+    "effect": "使用技能命中敌方英雄后永久获得2法术强度"
+  },
+  {
+    "name": "Spin To Win",
+    "nameZh": "旋转至胜",
+    "rarity": "prismatic",
+    "effect": "普攻对周围所有敌人造成100%攻击力伤害"
+  },
+  {
+    "name": "Transmute: Chaos",
+    "nameZh": "转化：混沌",
+    "rarity": "prismatic",
+    "effect": "将所有海克斯强化随机替换为同稀有度强化"
+  },
+  {
+    "name": "Transmute: Gold",
+    "nameZh": "转化：黄金",
+    "rarity": "prismatic",
+    "effect": "将一个白银海克斯强化升级为黄金海克斯强化"
+  },
+  {
+    "name": "Transmute: Prismatic",
+    "nameZh": "转化：棱彩",
+    "rarity": "prismatic",
+    "effect": "将一个黄金海克斯强化升级为棱彩海克斯强化"
+  },
+  {
+    "name": "Ultimate Revolution",
+    "nameZh": "终极技能革命",
+    "rarity": "prismatic",
+    "effect": "终极技能冷却时间减少60%且施放时重置基础技能"
+  }
+]
