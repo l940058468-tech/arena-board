@@ -2,9 +2,9 @@
   "patch": "16.19",
   "source": "lolalytics",
   "sourceUrl": "https://lolalytics.com/lol/tierlist/arena/",
-  "updatedAt": "2026-09-26T04:22:39.540Z",
+  "updatedAt": "2026-09-26T16:07:10.935Z",
   "avgWr": 55.97,
-  "analysedGames": 163093,
+  "analysedGames": 163090,
   "champions": [
     {
       "id": 1,
@@ -1086,7 +1086,7 @@
       "tier": "B",
       "rank": 80,
       "wr": 56.11,
-      "avgWrDelta": 4.38,
+      "avgWrDelta": 4.44,
       "pr": 4.92,
       "games": 802,
       "br": 0,
@@ -3243,10 +3243,10 @@
       "title": "the Card Master",
       "tier": "D+",
       "rank": 158,
-      "wr": 51.55,
-      "avgWrDelta": 6.63,
-      "pr": 9.09,
-      "games": 1482,
+      "wr": 51.59,
+      "avgWrDelta": 6.7,
+      "pr": 9.08,
+      "games": 1481,
       "br": 0,
       "augments": {
         "silver": [
@@ -3254,21 +3254,21 @@
             "id": 205,
             "name": "ADAPt",
             "wr": 56.2,
-            "pr": 34.82,
+            "pr": 34.84,
             "games": 516
           },
           {
             "id": 97,
             "name": "Witchful Thinking",
             "wr": 44.74,
-            "pr": 15.38,
+            "pr": 15.4,
             "games": 228
           },
           {
             "id": 218,
             "name": "Desecrator",
             "wr": 59.55,
-            "pr": 12.01,
+            "pr": 12.02,
             "games": 178
           },
           {
@@ -3282,7 +3282,7 @@
             "id": 237,
             "name": "Transmute: Gold",
             "wr": 59.65,
-            "pr": 7.69,
+            "pr": 7.7,
             "games": 114
           },
           {
@@ -3296,14 +3296,14 @@
             "id": 226,
             "name": "Stats!",
             "wr": 51.16,
-            "pr": 5.8,
+            "pr": 5.81,
             "games": 86
           },
           {
             "id": 69,
             "name": "Repulsor",
             "wr": 58.62,
-            "pr": 3.91,
+            "pr": 3.92,
             "games": 58
           },
           {
@@ -3359,29 +3359,29 @@
             "id": 17,
             "name": "Contract Killer",
             "wr": 84.62,
-            "pr": 1.75,
+            "pr": 1.76,
             "games": 26
           },
           {
             "id": 206,
             "name": "escAPADe",
             "wr": 27.27,
-            "pr": 1.48,
+            "pr": 1.49,
             "games": 22
           },
           {
             "id": 240,
             "name": "Parasitic Mutation",
             "wr": 54.55,
-            "pr": 1.48,
+            "pr": 1.49,
             "games": 22
           },
           {
             "id": 344,
             "name": "Energetic",
-            "wr": 18.18,
-            "pr": 1.48,
-            "games": 22
+            "wr": 20,
+            "pr": 1.35,
+            "games": 20
           },
           {
             "id": 105,
@@ -3408,42 +3408,42 @@
             "id": 49,
             "name": "Juice Box",
             "wr": 66.67,
-            "pr": 1.21,
+            "pr": 1.22,
             "games": 18
           },
           {
             "id": 7,
             "name": "Blunt Force",
             "wr": 77.78,
-            "pr": 1.21,
+            "pr": 1.22,
             "games": 18
           },
           {
             "id": 60,
             "name": "Ocean Soul",
             "wr": 77.78,
-            "pr": 1.21,
+            "pr": 1.22,
             "games": 18
           },
           {
             "id": 51,
             "name": "Light 'em Up!",
             "wr": 44.44,
-            "pr": 1.21,
+            "pr": 1.22,
             "games": 18
           },
           {
             "id": 46,
             "name": "Infernal Soul",
             "wr": 0,
-            "pr": 1.21,
+            "pr": 1.22,
             "games": 18
           },
           {
             "id": 102,
             "name": "Don't Chase",
             "wr": 44.44,
-            "pr": 1.21,
+            "pr": 1.22,
             "games": 18
           },
           {
@@ -3464,14 +3464,14 @@
             "id": 207,
             "name": "Hold Very Still",
             "wr": 85.71,
-            "pr": 0.94,
+            "pr": 0.95,
             "games": 14
           },
           {
             "id": 305,
             "name": "Leg Day",
             "wr": 42.86,
-            "pr": 0.94,
+            "pr": 0.95,
             "games": 14
           },
           {
@@ -3513,14 +3513,14 @@
             "id": 229,
             "name": "Fire Sale",
             "wr": 0,
-            "pr": 0.67,
+            "pr": 0.68,
             "games": 10
           },
           {
             "id": 120,
             "name": "Serve Beyond Death",
             "wr": 40,
-            "pr": 0.67,
+            "pr": 0.68,
             "games": 10
           },
           {
@@ -3548,28 +3548,28 @@
             "id": 44,
             "name": "Ice Cold",
             "wr": 0,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
             "id": 138,
             "name": "Goredrink",
             "wr": 100,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
             "id": 136,
             "name": "Slap Around",
             "wr": 66.67,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
             "id": 251,
             "name": "Numb to Pain",
             "wr": 66.67,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
@@ -3611,42 +3611,42 @@
             "id": 232,
             "name": "Slime Time",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 37,
             "name": "First-Aid Kit",
             "wr": 0,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 39,
             "name": "Frost Wraith",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 25,
             "name": "Dive Bomber",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 108,
             "name": "Self Destruct",
             "wr": 0,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 85,
             "name": "Tormentor",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           }
         ],
@@ -3655,56 +3655,56 @@
             "id": 129,
             "name": "Marksmage",
             "wr": 54.3,
-            "pr": 61.13,
+            "pr": 61.17,
             "games": 906
           },
           {
             "id": 180,
             "name": "Big Brain",
             "wr": 61.11,
-            "pr": 19.43,
+            "pr": 19.45,
             "games": 288
           },
           {
             "id": 238,
             "name": "Transmute: Prismatic",
             "wr": 54.2,
-            "pr": 17.68,
+            "pr": 17.69,
             "games": 262
           },
           {
             "id": 38,
             "name": "From Beginning to End",
             "wr": 49.18,
-            "pr": 16.46,
+            "pr": 16.48,
             "games": 244
           },
           {
             "id": 65,
             "name": "Phenomenal Evil",
             "wr": 52.14,
-            "pr": 15.79,
+            "pr": 15.8,
             "games": 234
           },
           {
             "id": 133,
             "name": "Magic Missile",
             "wr": 57.14,
-            "pr": 15.11,
+            "pr": 15.12,
             "games": 224
           },
           {
             "id": 113,
             "name": "Skilled Sniper",
-            "wr": 42.55,
-            "pr": 12.69,
-            "games": 188
+            "wr": 43.01,
+            "pr": 12.56,
+            "games": 186
           },
           {
             "id": 227,
             "name": "Stats on Stats!",
             "wr": 61.04,
-            "pr": 10.39,
+            "pr": 10.4,
             "games": 154
           },
           {
@@ -3718,21 +3718,21 @@
             "id": 61,
             "name": "OK Boomerang",
             "wr": 54.55,
-            "pr": 4.45,
+            "pr": 4.46,
             "games": 66
           },
           {
             "id": 217,
             "name": "Deathtouch",
             "wr": 57.58,
-            "pr": 4.45,
+            "pr": 4.46,
             "games": 66
           },
           {
             "id": 98,
             "name": "With Haste",
             "wr": 54.84,
-            "pr": 4.18,
+            "pr": 4.19,
             "games": 62
           },
           {
@@ -3753,14 +3753,14 @@
             "id": 103,
             "name": "Bread And Butter",
             "wr": 33.33,
-            "pr": 3.64,
+            "pr": 3.65,
             "games": 54
           },
           {
             "id": 92,
             "name": "Vulnerability",
             "wr": 48,
-            "pr": 3.37,
+            "pr": 3.38,
             "games": 50
           },
           {
@@ -3774,14 +3774,14 @@
             "id": 52,
             "name": "Lightning Strikes",
             "wr": 61.9,
-            "pr": 2.83,
+            "pr": 2.84,
             "games": 42
           },
           {
             "id": 215,
             "name": "Dark Blessing",
             "wr": 57.14,
-            "pr": 2.83,
+            "pr": 2.84,
             "games": 42
           },
           {
@@ -3802,7 +3802,7 @@
             "id": 16,
             "name": "Combo Master",
             "wr": 64.71,
-            "pr": 2.29,
+            "pr": 2.3,
             "games": 34
           },
           {
@@ -3816,28 +3816,28 @@
             "id": 116,
             "name": "Flashy",
             "wr": 33.33,
-            "pr": 2.02,
+            "pr": 2.03,
             "games": 30
           },
           {
             "id": 357,
             "name": "Hybrid",
             "wr": 46.67,
-            "pr": 2.02,
+            "pr": 2.03,
             "games": 30
           },
           {
             "id": 50,
             "name": "Keystone Conjurer",
             "wr": 60,
-            "pr": 2.02,
+            "pr": 2.03,
             "games": 30
           },
           {
             "id": 84,
             "name": "Thread the Needle",
             "wr": 66.67,
-            "pr": 2.02,
+            "pr": 2.03,
             "games": 30
           },
           {
@@ -3858,28 +3858,28 @@
             "id": 24,
             "name": "Die Another Day",
             "wr": 30.77,
-            "pr": 1.75,
+            "pr": 1.76,
             "games": 26
           },
           {
             "id": 301,
             "name": "Divine Intervention",
             "wr": 90.91,
-            "pr": 1.48,
+            "pr": 1.49,
             "games": 22
           },
           {
             "id": 68,
             "name": "Recursion",
             "wr": 36.36,
-            "pr": 1.48,
+            "pr": 1.49,
             "games": 22
           },
           {
             "id": 311,
             "name": "Overflow",
             "wr": 77.78,
-            "pr": 1.21,
+            "pr": 1.22,
             "games": 18
           },
           {
@@ -3900,14 +3900,14 @@
             "id": 318,
             "name": "Quest: Mad Hatter",
             "wr": 42.86,
-            "pr": 0.94,
+            "pr": 0.95,
             "games": 14
           },
           {
             "id": 107,
             "name": "Twice Thrice",
             "wr": 42.86,
-            "pr": 0.94,
+            "pr": 0.95,
             "games": 14
           },
           {
@@ -3935,28 +3935,28 @@
             "id": 33,
             "name": "Extendo-Arm",
             "wr": 40,
-            "pr": 0.67,
+            "pr": 0.68,
             "games": 10
           },
           {
             "id": 313,
             "name": "Tank Engine",
             "wr": 60,
-            "pr": 0.67,
+            "pr": 0.68,
             "games": 10
           },
           {
             "id": 89,
             "name": "Vanish",
             "wr": 80,
-            "pr": 0.67,
+            "pr": 0.68,
             "games": 10
           },
           {
             "id": 309,
             "name": "And My Axe!",
             "wr": 20,
-            "pr": 0.67,
+            "pr": 0.68,
             "games": 10
           },
           {
@@ -3998,7 +3998,7 @@
             "id": 118,
             "name": "Critical Healing",
             "wr": 66.67,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
@@ -4026,63 +4026,63 @@
             "id": 198,
             "name": "Holy Fire",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 175,
             "name": "Parasitic Relationship",
             "wr": 0,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 192,
             "name": "Quest: Angel of Retribution",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 149,
             "name": "Impassable",
             "wr": 0,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 109,
             "name": "Oathsworn",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 336,
             "name": "Aim for the Head",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 165,
             "name": "Restart",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 104,
             "name": "Minionmancer",
             "wr": 0,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 67,
             "name": "Rabble Rousing",
             "wr": 0,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           }
         ],
@@ -4090,43 +4090,43 @@
           {
             "id": 48,
             "name": "Jeweled Gauntlet",
-            "wr": 57.78,
-            "pr": 48.58,
-            "games": 720
+            "wr": 57.94,
+            "pr": 48.48,
+            "games": 718
           },
           {
             "id": 86,
             "name": "Trueshot Prodigy",
             "wr": 54.97,
-            "pr": 43.45,
+            "pr": 43.48,
             "games": 644
           },
           {
             "id": 195,
             "name": "Giant Slayer",
             "wr": 66.88,
-            "pr": 20.78,
+            "pr": 20.8,
             "games": 308
           },
           {
             "id": 135,
             "name": "Spellwake",
-            "wr": 58.27,
-            "pr": 17.14,
-            "games": 254
+            "wr": 58.73,
+            "pr": 17.02,
+            "games": 252
           },
           {
             "id": 30,
             "name": "Eureka",
             "wr": 52.21,
-            "pr": 15.25,
+            "pr": 15.26,
             "games": 226
           },
           {
             "id": 219,
             "name": "Doomsayer",
             "wr": 45.54,
-            "pr": 13.63,
+            "pr": 13.64,
             "games": 202
           },
           {
@@ -4147,7 +4147,7 @@
             "id": 345,
             "name": "Magical Girl",
             "wr": 55.1,
-            "pr": 6.61,
+            "pr": 6.62,
             "games": 98
           },
           {
@@ -4161,7 +4161,7 @@
             "id": 228,
             "name": "Stats on Stats on Stats!",
             "wr": 55.32,
-            "pr": 6.34,
+            "pr": 6.35,
             "games": 94
           },
           {
@@ -4196,14 +4196,14 @@
             "id": 115,
             "name": "Scopiest Weapons",
             "wr": 60,
-            "pr": 3.37,
+            "pr": 3.38,
             "games": 50
           },
           {
             "id": 53,
             "name": "Mad Scientist",
             "wr": 71.43,
-            "pr": 2.83,
+            "pr": 2.84,
             "games": 42
           },
           {
@@ -4224,14 +4224,14 @@
             "id": 81,
             "name": "Tap Dancer",
             "wr": 73.33,
-            "pr": 2.02,
+            "pr": 2.03,
             "games": 30
           },
           {
             "id": 333,
             "name": "Quest: Rite Of The Forge God",
             "wr": 53.85,
-            "pr": 1.75,
+            "pr": 1.76,
             "games": 26
           },
           {
@@ -4245,7 +4245,7 @@
             "id": 79,
             "name": "Symphony of War",
             "wr": 36.36,
-            "pr": 1.48,
+            "pr": 1.49,
             "games": 22
           },
           {
@@ -4364,7 +4364,7 @@
             "id": 174,
             "name": "Laser Eyes",
             "wr": 60,
-            "pr": 0.67,
+            "pr": 0.68,
             "games": 10
           },
           {
@@ -4378,21 +4378,21 @@
             "id": 134,
             "name": "Draw Your Sword",
             "wr": 33.33,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
             "id": 75,
             "name": "Slow Cooker",
             "wr": 100,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
             "id": 18,
             "name": "Courage of the Colossus",
             "wr": 0,
-            "pr": 0.4,
+            "pr": 0.41,
             "games": 6
           },
           {
@@ -4413,29 +4413,29 @@
             "id": 88,
             "name": "Ultimate Revolution",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 15,
             "name": "Circle of Death",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           },
           {
             "id": 125,
             "name": "Raid Boss",
             "wr": 100,
-            "pr": 0.13,
+            "pr": 0.14,
             "games": 2
           }
         ]
       },
       "detail": {
-        "n": 1482,
-        "wr": 51.55,
-        "pr": 7.27,
+        "n": 1481,
+        "wr": 51.59,
+        "pr": 7.26,
         "rank": 158,
         "rankTotal": 173,
         "tier": "D+"
@@ -7868,7 +7868,7 @@
       "tier": "B+",
       "rank": 71,
       "wr": 56.51,
-      "avgWrDelta": 5.85,
+      "avgWrDelta": 5.82,
       "pr": 8.15,
       "games": 1329,
       "br": 0,
@@ -11147,7 +11147,7 @@
       "tier": "A-",
       "rank": 47,
       "wr": 57.78,
-      "avgWrDelta": 7.61,
+      "avgWrDelta": 7.64,
       "pr": 8.28,
       "games": 1350,
       "br": 0,
@@ -12231,9 +12231,9 @@
       "name": "Alistar",
       "title": "the Minotaur",
       "tier": "C+",
-      "rank": 126,
+      "rank": 125,
       "wr": 53.88,
-      "avgWrDelta": 4.31,
+      "avgWrDelta": 4.27,
       "pr": 7.59,
       "games": 1238,
       "br": 0,
@@ -13397,7 +13397,7 @@
         "n": 1238,
         "wr": 53.88,
         "pr": 6.07,
-        "rank": 126,
+        "rank": 125,
         "rankTotal": 173,
         "tier": "C+"
       }
@@ -17642,7 +17642,7 @@
       "tier": "C+",
       "rank": 121,
       "wr": 54.09,
-      "avgWrDelta": 6.04,
+      "avgWrDelta": 6.08,
       "pr": 6.89,
       "games": 1124,
       "br": 0,
@@ -19765,7 +19765,7 @@
       "tier": "C+",
       "rank": 124,
       "wr": 53.93,
-      "avgWrDelta": 2.96,
+      "avgWrDelta": 3.02,
       "pr": 5.15,
       "games": 840,
       "br": 0,
@@ -24228,7 +24228,7 @@
       "tier": "A-",
       "rank": 50,
       "wr": 57.66,
-      "avgWrDelta": 6.55,
+      "avgWrDelta": 6.49,
       "pr": 5.24,
       "games": 855,
       "br": 0,
@@ -26489,7 +26489,7 @@
       "name": "Morgana",
       "title": "the Fallen",
       "tier": "A",
-      "rank": 41,
+      "rank": 40,
       "wr": 58.11,
       "avgWrDelta": 7.32,
       "pr": 5.59,
@@ -27606,7 +27606,7 @@
         "n": 912,
         "wr": 58.11,
         "pr": 4.47,
-        "rank": 41,
+        "rank": 40,
         "rankTotal": 173,
         "tier": "A"
       }
@@ -27619,7 +27619,7 @@
       "tier": "A+",
       "rank": 26,
       "wr": 59.34,
-      "avgWrDelta": 6.52,
+      "avgWrDelta": 6.58,
       "pr": 5.02,
       "games": 819,
       "br": 0,
@@ -28719,7 +28719,7 @@
       "tier": "A+",
       "rank": 24,
       "wr": 59.71,
-      "avgWrDelta": 7.75,
+      "avgWrDelta": 7.79,
       "pr": 6.73,
       "games": 1097,
       "br": 0,
@@ -30826,7 +30826,7 @@
       "name": "Twitch",
       "title": "the Plague Rat",
       "tier": "B-",
-      "rank": 100,
+      "rank": 99,
       "wr": 55.29,
       "avgWrDelta": 7.18,
       "pr": 7.36,
@@ -31908,7 +31908,7 @@
         "n": 1201,
         "wr": 55.29,
         "pr": 5.89,
-        "rank": 100,
+        "rank": 99,
         "rankTotal": 173,
         "tier": "B-"
       }
@@ -32909,7 +32909,7 @@
       "tier": "B+",
       "rank": 59,
       "wr": 57.15,
-      "avgWrDelta": 4.63,
+      "avgWrDelta": 4.59,
       "pr": 8.06,
       "games": 1314,
       "br": 0,
@@ -36270,117 +36270,117 @@
       "name": "Anivia",
       "title": "the Cryophoenix",
       "tier": "C+",
-      "rank": 125,
-      "wr": 53.91,
-      "avgWrDelta": 5.69,
-      "pr": 4.23,
-      "games": 690,
+      "rank": 127,
+      "wr": 53.84,
+      "avgWrDelta": 5.62,
+      "pr": 4.24,
+      "games": 691,
       "br": 0,
       "augments": {
         "silver": [
           {
             "id": 205,
             "name": "ADAPt",
-            "wr": 59.21,
-            "pr": 22.03,
-            "games": 152
+            "wr": 58.44,
+            "pr": 22.29,
+            "games": 154
+          },
+          {
+            "id": 44,
+            "name": "Ice Cold",
+            "wr": 62.32,
+            "pr": 19.97,
+            "games": 138
           },
           {
             "id": 56,
             "name": "Mind to Matter",
             "wr": 60.87,
-            "pr": 20,
+            "pr": 19.97,
             "games": 138
-          },
-          {
-            "id": 44,
-            "name": "Ice Cold",
-            "wr": 63.24,
-            "pr": 19.71,
-            "games": 136
           },
           {
             "id": 97,
             "name": "Witchful Thinking",
             "wr": 55.36,
-            "pr": 16.23,
+            "pr": 16.21,
             "games": 112
           },
           {
             "id": 324,
             "name": "Bravest of the Brave",
             "wr": 54.35,
-            "pr": 13.33,
+            "pr": 13.31,
             "games": 92
           },
           {
             "id": 218,
             "name": "Desecrator",
             "wr": 70.27,
-            "pr": 10.72,
+            "pr": 10.71,
             "games": 74
           },
           {
             "id": 322,
             "name": "Augmented Power",
             "wr": 74.19,
-            "pr": 8.99,
+            "pr": 8.97,
             "games": 62
           },
           {
             "id": 237,
             "name": "Transmute: Gold",
             "wr": 47.37,
-            "pr": 5.51,
+            "pr": 5.5,
             "games": 38
           },
           {
             "id": 32,
             "name": "Executioner",
             "wr": 64.29,
-            "pr": 4.06,
+            "pr": 4.05,
             "games": 28
           },
           {
             "id": 226,
             "name": "Stats!",
             "wr": 66.67,
-            "pr": 3.48,
+            "pr": 3.47,
             "games": 24
           },
           {
             "id": 171,
             "name": "Dematerialize",
             "wr": 66.67,
-            "pr": 3.48,
+            "pr": 3.47,
             "games": 24
           },
           {
             "id": 330,
             "name": "Despoil",
             "wr": 66.67,
-            "pr": 3.48,
+            "pr": 3.47,
             "games": 24
           },
           {
             "id": 308,
             "name": "Firefox",
             "wr": 63.64,
-            "pr": 3.19,
+            "pr": 3.18,
             "games": 22
           },
           {
             "id": 316,
             "name": "Grievous Venom",
             "wr": 72.73,
-            "pr": 3.19,
+            "pr": 3.18,
             "games": 22
           },
           {
             "id": 28,
             "name": "Erosion",
             "wr": 44.44,
-            "pr": 2.61,
+            "pr": 2.6,
             "games": 18
           },
           {
@@ -36447,16 +36447,16 @@
             "games": 8
           },
           {
-            "id": 25,
-            "name": "Dive Bomber",
-            "wr": 33.33,
+            "id": 335,
+            "name": "Panic Room",
+            "wr": 66.67,
             "pr": 0.87,
             "games": 6
           },
           {
-            "id": 335,
-            "name": "Panic Room",
-            "wr": 66.67,
+            "id": 25,
+            "name": "Dive Bomber",
+            "wr": 33.33,
             "pr": 0.87,
             "games": 6
           },
@@ -36531,8 +36531,8 @@
             "games": 4
           },
           {
-            "id": 172,
-            "name": "Mirror Image",
+            "id": 305,
+            "name": "Leg Day",
             "wr": 0,
             "pr": 0.29,
             "games": 2
@@ -36545,8 +36545,8 @@
             "games": 2
           },
           {
-            "id": 305,
-            "name": "Leg Day",
+            "id": 172,
+            "name": "Mirror Image",
             "wr": 0,
             "pr": 0.29,
             "games": 2
@@ -36566,8 +36566,29 @@
             "games": 2
           },
           {
+            "id": 222,
+            "name": "Fruits of Your Labor",
+            "wr": 100,
+            "pr": 0.29,
+            "games": 2
+          },
+          {
+            "id": 120,
+            "name": "Serve Beyond Death",
+            "wr": 100,
+            "pr": 0.29,
+            "games": 2
+          },
+          {
             "id": 51,
             "name": "Light 'em Up!",
+            "wr": 0,
+            "pr": 0.29,
+            "games": 2
+          },
+          {
+            "id": 42,
+            "name": "Guilty Pleasure",
             "wr": 0,
             "pr": 0.29,
             "games": 2
@@ -36585,27 +36606,6 @@
             "wr": 0,
             "pr": 0.29,
             "games": 2
-          },
-          {
-            "id": 42,
-            "name": "Guilty Pleasure",
-            "wr": 0,
-            "pr": 0.29,
-            "games": 2
-          },
-          {
-            "id": 120,
-            "name": "Serve Beyond Death",
-            "wr": 100,
-            "pr": 0.29,
-            "games": 2
-          },
-          {
-            "id": 222,
-            "name": "Fruits of Your Labor",
-            "wr": 100,
-            "pr": 0.29,
-            "games": 2
           }
         ],
         "gold": [
@@ -36613,133 +36613,133 @@
             "id": 65,
             "name": "Phenomenal Evil",
             "wr": 51.13,
-            "pr": 38.55,
+            "pr": 38.49,
             "games": 266
           },
           {
             "id": 133,
             "name": "Magic Missile",
             "wr": 51.79,
-            "pr": 32.46,
+            "pr": 32.42,
             "games": 224
           },
           {
             "id": 180,
             "name": "Big Brain",
             "wr": 60.71,
-            "pr": 32.46,
+            "pr": 32.42,
             "games": 224
           },
           {
             "id": 211,
             "name": "It's Killing Time",
             "wr": 69.14,
-            "pr": 23.48,
+            "pr": 23.44,
             "games": 162
           },
           {
             "id": 238,
             "name": "Transmute: Prismatic",
             "wr": 55.38,
-            "pr": 18.84,
+            "pr": 18.81,
             "games": 130
           },
           {
             "id": 92,
             "name": "Vulnerability",
             "wr": 74.36,
-            "pr": 11.3,
+            "pr": 11.29,
             "games": 78
           },
           {
             "id": 311,
             "name": "Overflow",
             "wr": 64.71,
-            "pr": 9.86,
+            "pr": 9.84,
             "games": 68
           },
           {
             "id": 38,
             "name": "From Beginning to End",
             "wr": 48,
-            "pr": 7.25,
+            "pr": 7.24,
             "games": 50
           },
           {
             "id": 16,
             "name": "Combo Master",
             "wr": 66.67,
-            "pr": 6.09,
+            "pr": 6.08,
             "games": 42
           },
           {
             "id": 227,
             "name": "Stats on Stats!",
             "wr": 52.38,
-            "pr": 6.09,
+            "pr": 6.08,
             "games": 42
           },
           {
             "id": 215,
             "name": "Dark Blessing",
             "wr": 63.16,
-            "pr": 5.51,
+            "pr": 5.5,
             "games": 38
           },
           {
             "id": 2,
             "name": "Apex Inventor",
             "wr": 60,
-            "pr": 4.35,
+            "pr": 4.34,
             "games": 30
           },
           {
             "id": 47,
             "name": "It's Critical",
             "wr": 66.67,
-            "pr": 4.35,
+            "pr": 4.34,
             "games": 30
           },
           {
             "id": 50,
             "name": "Keystone Conjurer",
             "wr": 71.43,
-            "pr": 4.06,
+            "pr": 4.05,
             "games": 28
           },
           {
             "id": 154,
             "name": "Quest: Urf's Champion",
             "wr": 23.08,
-            "pr": 3.77,
+            "pr": 3.76,
             "games": 26
           },
           {
             "id": 129,
             "name": "Marksmage",
             "wr": 53.85,
-            "pr": 3.77,
+            "pr": 3.76,
             "games": 26
           },
           {
             "id": 98,
             "name": "With Haste",
             "wr": 33.33,
-            "pr": 3.48,
+            "pr": 3.47,
             "games": 24
           },
           {
             "id": 151,
             "name": "Bread And Cheese",
             "wr": 66.67,
-            "pr": 3.48,
+            "pr": 3.47,
             "games": 24
           },
           {
             "id": 103,
             "name": "Bread And Butter",
             "wr": 33.33,
-            "pr": 3.48,
+            "pr": 3.47,
             "games": 24
           },
           {
@@ -36785,16 +36785,16 @@
             "games": 14
           },
           {
-            "id": 116,
-            "name": "Flashy",
-            "wr": 40,
+            "id": 223,
+            "name": "Summoner Revolution",
+            "wr": 60,
             "pr": 1.45,
             "games": 10
           },
           {
-            "id": 165,
-            "name": "Restart",
-            "wr": 60,
+            "id": 116,
+            "name": "Flashy",
+            "wr": 40,
             "pr": 1.45,
             "games": 10
           },
@@ -36806,8 +36806,8 @@
             "games": 10
           },
           {
-            "id": 223,
-            "name": "Summoner Revolution",
+            "id": 165,
+            "name": "Restart",
             "wr": 60,
             "pr": 1.45,
             "games": 10
@@ -36815,6 +36815,13 @@
           {
             "id": 231,
             "name": "Light Warden",
+            "wr": 75,
+            "pr": 1.16,
+            "games": 8
+          },
+          {
+            "id": 68,
+            "name": "Recursion",
             "wr": 75,
             "pr": 1.16,
             "games": 8
@@ -36834,9 +36841,9 @@
             "games": 8
           },
           {
-            "id": 68,
-            "name": "Recursion",
-            "wr": 75,
+            "id": 24,
+            "name": "Die Another Day",
+            "wr": 25,
             "pr": 1.16,
             "games": 8
           },
@@ -36848,22 +36855,8 @@
             "games": 8
           },
           {
-            "id": 24,
-            "name": "Die Another Day",
-            "wr": 25,
-            "pr": 1.16,
-            "games": 8
-          },
-          {
             "id": 357,
             "name": "Hybrid",
-            "wr": 33.33,
-            "pr": 0.87,
-            "games": 6
-          },
-          {
-            "id": 20,
-            "name": "Dawnbringer's Resolve",
             "wr": 33.33,
             "pr": 0.87,
             "games": 6
@@ -36883,9 +36876,16 @@
             "games": 6
           },
           {
-            "id": 72,
-            "name": "Searing Dawn",
-            "wr": 100,
+            "id": 20,
+            "name": "Dawnbringer's Resolve",
+            "wr": 33.33,
+            "pr": 0.87,
+            "games": 6
+          },
+          {
+            "id": 109,
+            "name": "Oathsworn",
+            "wr": 0,
             "pr": 0.58,
             "games": 4
           },
@@ -36897,16 +36897,9 @@
             "games": 4
           },
           {
-            "id": 90,
-            "name": "Vengeance",
+            "id": 72,
+            "name": "Searing Dawn",
             "wr": 100,
-            "pr": 0.58,
-            "games": 4
-          },
-          {
-            "id": 109,
-            "name": "Oathsworn",
-            "wr": 0,
             "pr": 0.58,
             "games": 4
           },
@@ -36914,6 +36907,13 @@
             "id": 149,
             "name": "Impassable",
             "wr": 50,
+            "pr": 0.58,
+            "games": 4
+          },
+          {
+            "id": 90,
+            "name": "Vengeance",
+            "wr": 100,
             "pr": 0.58,
             "games": 4
           },
@@ -36953,13 +36953,6 @@
             "games": 4
           },
           {
-            "id": 64,
-            "name": "Perseverance",
-            "wr": 100,
-            "pr": 0.29,
-            "games": 2
-          },
-          {
             "id": 67,
             "name": "Rabble Rousing",
             "wr": 0,
@@ -36967,22 +36960,8 @@
             "games": 2
           },
           {
-            "id": 141,
-            "name": "All For You",
-            "wr": 0,
-            "pr": 0.29,
-            "games": 2
-          },
-          {
-            "id": 89,
-            "name": "Vanish",
-            "wr": 100,
-            "pr": 0.29,
-            "games": 2
-          },
-          {
-            "id": 198,
-            "name": "Holy Fire",
+            "id": 64,
+            "name": "Perseverance",
             "wr": 100,
             "pr": 0.29,
             "games": 2
@@ -37000,6 +36979,27 @@
             "wr": 0,
             "pr": 0.29,
             "games": 2
+          },
+          {
+            "id": 198,
+            "name": "Holy Fire",
+            "wr": 100,
+            "pr": 0.29,
+            "games": 2
+          },
+          {
+            "id": 89,
+            "name": "Vanish",
+            "wr": 100,
+            "pr": 0.29,
+            "games": 2
+          },
+          {
+            "id": 141,
+            "name": "All For You",
+            "wr": 0,
+            "pr": 0.29,
+            "games": 2
           }
         ],
         "prismatic": [
@@ -37007,133 +37007,133 @@
             "id": 48,
             "name": "Jeweled Gauntlet",
             "wr": 62.94,
-            "pr": 41.45,
+            "pr": 41.39,
             "games": 286
           },
           {
             "id": 45,
             "name": "Infernal Conduit",
             "wr": 61.9,
-            "pr": 36.52,
+            "pr": 36.47,
             "games": 252
           },
           {
             "id": 135,
             "name": "Spellwake",
-            "wr": 66.32,
-            "pr": 27.54,
-            "games": 190
+            "wr": 65.63,
+            "pr": 27.79,
+            "games": 192
           },
           {
             "id": 30,
             "name": "Eureka",
             "wr": 54.93,
-            "pr": 20.58,
+            "pr": 20.55,
             "games": 142
           },
           {
             "id": 156,
             "name": "Quest: Wooglet's Witchcap",
             "wr": 44.29,
-            "pr": 20.29,
+            "pr": 20.26,
             "games": 140
           },
           {
             "id": 219,
             "name": "Doomsayer",
             "wr": 53.62,
-            "pr": 20,
+            "pr": 19.97,
             "games": 138
           },
           {
             "id": 194,
             "name": "Fey Magic",
             "wr": 64.71,
-            "pr": 9.86,
+            "pr": 9.84,
             "games": 68
           },
           {
             "id": 195,
             "name": "Giant Slayer",
             "wr": 66.67,
-            "pr": 8.7,
+            "pr": 8.68,
             "games": 60
           },
           {
             "id": 216,
             "name": "Dreadbringer",
             "wr": 63.16,
-            "pr": 5.51,
+            "pr": 5.5,
             "games": 38
           },
           {
             "id": 208,
             "name": "Orbital Laser",
             "wr": 55.56,
-            "pr": 5.22,
+            "pr": 5.21,
             "games": 36
           },
           {
             "id": 234,
             "name": "Gamba Anvil",
             "wr": 62.5,
-            "pr": 4.64,
+            "pr": 4.63,
             "games": 32
           },
           {
             "id": 345,
             "name": "Magical Girl",
             "wr": 68.75,
-            "pr": 4.64,
+            "pr": 4.63,
             "games": 32
           },
           {
             "id": 228,
             "name": "Stats on Stats on Stats!",
             "wr": 60,
-            "pr": 4.35,
+            "pr": 4.34,
             "games": 30
           },
           {
             "id": 86,
             "name": "Trueshot Prodigy",
             "wr": 83.33,
-            "pr": 3.48,
+            "pr": 3.47,
             "games": 24
           },
           {
             "id": 11,
             "name": "Can't Touch This",
             "wr": 63.64,
-            "pr": 3.19,
+            "pr": 3.18,
             "games": 22
           },
           {
             "id": 96,
             "name": "Wisdom of Ages",
             "wr": 50,
-            "pr": 2.9,
+            "pr": 2.89,
             "games": 20
           },
           {
             "id": 233,
             "name": "Ultimate Roulette",
             "wr": 44.44,
-            "pr": 2.61,
+            "pr": 2.6,
             "games": 18
           },
           {
             "id": 62,
             "name": "Omni Soul",
             "wr": 66.67,
-            "pr": 2.61,
+            "pr": 2.6,
             "games": 18
           },
           {
             "id": 1,
             "name": "Accelerating Sorcery",
             "wr": 22.22,
-            "pr": 2.61,
+            "pr": 2.6,
             "games": 18
           },
           {
@@ -37172,9 +37172,9 @@
             "games": 8
           },
           {
-            "id": 35,
-            "name": "Feel the Burn",
-            "wr": 75,
+            "id": 54,
+            "name": "Master of Duality",
+            "wr": 25,
             "pr": 1.16,
             "games": 8
           },
@@ -37186,9 +37186,9 @@
             "games": 8
           },
           {
-            "id": 54,
-            "name": "Master of Duality",
-            "wr": 25,
+            "id": 35,
+            "name": "Feel the Burn",
+            "wr": 75,
             "pr": 1.16,
             "games": 8
           },
@@ -37214,16 +37214,16 @@
             "games": 4
           },
           {
-            "id": 18,
-            "name": "Courage of the Colossus",
-            "wr": 100,
+            "id": 193,
+            "name": "Center of the Universe",
+            "wr": 50,
             "pr": 0.58,
             "games": 4
           },
           {
-            "id": 193,
-            "name": "Center of the Universe",
-            "wr": 50,
+            "id": 18,
+            "name": "Courage of the Colossus",
+            "wr": 100,
             "pr": 0.58,
             "games": 4
           },
@@ -37233,6 +37233,13 @@
             "wr": 100,
             "pr": 0.58,
             "games": 4
+          },
+          {
+            "id": 243,
+            "name": "Transmute: Chaos",
+            "wr": 100,
+            "pr": 0.29,
+            "games": 2
           },
           {
             "id": 58,
@@ -37247,21 +37254,14 @@
             "wr": 100,
             "pr": 0.29,
             "games": 2
-          },
-          {
-            "id": 243,
-            "name": "Transmute: Chaos",
-            "wr": 100,
-            "pr": 0.29,
-            "games": 2
           }
         ]
       },
       "detail": {
-        "n": 690,
-        "wr": 53.91,
-        "pr": 3.38,
-        "rank": 125,
+        "n": 691,
+        "wr": 53.84,
+        "pr": 3.39,
+        "rank": 127,
         "rankTotal": 173,
         "tier": "C+"
       }
@@ -40539,7 +40539,7 @@
       "tier": "A+",
       "rank": 25,
       "wr": 59.58,
-      "avgWrDelta": 4.97,
+      "avgWrDelta": 5.03,
       "pr": 5.22,
       "games": 851,
       "br": 0,
@@ -41597,7 +41597,7 @@
       "tier": "C",
       "rank": 141,
       "wr": 53,
-      "avgWrDelta": 7.57,
+      "avgWrDelta": 7.51,
       "pr": 4.7,
       "games": 766,
       "br": 0,
@@ -42774,7 +42774,7 @@
       "tier": "B+",
       "rank": 67,
       "wr": 56.66,
-      "avgWrDelta": 2.21,
+      "avgWrDelta": 2.15,
       "pr": 4.56,
       "games": 743,
       "br": 0,
@@ -43837,11 +43837,11 @@
       "name": "Gangplank",
       "title": "the Saltwater Scourge",
       "tier": "B-",
-      "rank": 98,
-      "wr": 55.3,
-      "avgWrDelta": 6.79,
-      "pr": 5.61,
-      "games": 915,
+      "rank": 101,
+      "wr": 55.25,
+      "avgWrDelta": 6.8,
+      "pr": 5.6,
+      "games": 914,
       "br": 0,
       "augments": {
         "silver": [
@@ -43849,63 +43849,63 @@
             "id": 82,
             "name": "The Brutalizer",
             "wr": 63.5,
-            "pr": 29.95,
+            "pr": 29.98,
             "games": 274
           },
           {
             "id": 206,
             "name": "escAPADe",
             "wr": 57.27,
-            "pr": 24.04,
+            "pr": 24.07,
             "games": 220
           },
           {
             "id": 46,
             "name": "Infernal Soul",
             "wr": 59.38,
-            "pr": 13.99,
+            "pr": 14,
             "games": 128
           },
           {
             "id": 324,
             "name": "Bravest of the Brave",
             "wr": 26.67,
-            "pr": 9.84,
+            "pr": 9.85,
             "games": 90
           },
           {
             "id": 32,
             "name": "Executioner",
             "wr": 47.22,
-            "pr": 7.87,
+            "pr": 7.88,
             "games": 72
           },
           {
             "id": 344,
             "name": "Energetic",
             "wr": 55.17,
-            "pr": 6.34,
+            "pr": 6.35,
             "games": 58
           },
           {
             "id": 120,
             "name": "Serve Beyond Death",
             "wr": 88.46,
-            "pr": 5.68,
+            "pr": 5.69,
             "games": 52
           },
           {
             "id": 237,
             "name": "Transmute: Gold",
             "wr": 57.69,
-            "pr": 5.68,
+            "pr": 5.69,
             "games": 52
           },
           {
             "id": 226,
             "name": "Stats!",
             "wr": 46.15,
-            "pr": 5.68,
+            "pr": 5.69,
             "games": 52
           },
           {
@@ -43919,21 +43919,21 @@
             "id": 80,
             "name": "Tank It Or Leave It",
             "wr": 47.62,
-            "pr": 4.59,
+            "pr": 4.6,
             "games": 42
           },
           {
             "id": 171,
             "name": "Dematerialize",
             "wr": 55,
-            "pr": 4.37,
+            "pr": 4.38,
             "games": 40
           },
           {
             "id": 322,
             "name": "Augmented Power",
             "wr": 66.67,
-            "pr": 3.93,
+            "pr": 3.94,
             "games": 36
           },
           {
@@ -44010,14 +44010,14 @@
             "id": 93,
             "name": "Warmup Routine",
             "wr": 50,
-            "pr": 0.87,
+            "pr": 0.88,
             "games": 8
           },
           {
             "id": 222,
             "name": "Fruits of Your Labor",
             "wr": 50,
-            "pr": 0.87,
+            "pr": 0.88,
             "games": 8
           },
           {
@@ -44201,77 +44201,77 @@
             "id": 84,
             "name": "Thread the Needle",
             "wr": 58.62,
-            "pr": 38.03,
+            "pr": 38.07,
             "games": 348
           },
           {
             "id": 38,
             "name": "From Beginning to End",
             "wr": 58.62,
-            "pr": 31.69,
+            "pr": 31.73,
             "games": 290
           },
           {
             "id": 238,
             "name": "Transmute: Prismatic",
-            "wr": 68.69,
-            "pr": 21.64,
-            "games": 198
+            "wr": 68.04,
+            "pr": 21.23,
+            "games": 194
           },
           {
             "id": 47,
             "name": "It's Critical",
             "wr": 67.19,
-            "pr": 13.99,
+            "pr": 14,
             "games": 128
           },
           {
             "id": 77,
             "name": "Soul Siphon",
-            "wr": 55,
-            "pr": 13.11,
-            "games": 120
+            "wr": 54.24,
+            "pr": 12.91,
+            "games": 118
           },
           {
             "id": 92,
             "name": "Vulnerability",
             "wr": 64.81,
-            "pr": 11.8,
+            "pr": 11.82,
             "games": 108
           },
           {
             "id": 23,
             "name": "Demon's Dance",
             "wr": 63.04,
-            "pr": 10.05,
+            "pr": 10.07,
             "games": 92
           },
           {
             "id": 227,
             "name": "Stats on Stats!",
             "wr": 57.14,
-            "pr": 7.65,
+            "pr": 7.66,
             "games": 70
           },
           {
             "id": 103,
             "name": "Bread And Butter",
             "wr": 51.43,
-            "pr": 7.65,
+            "pr": 7.66,
             "games": 70
           },
           {
             "id": 151,
             "name": "Bread And Cheese",
             "wr": 48.15,
-            "pr": 5.9,
+            "pr": 5.91,
             "games": 54
           },
           {
             "id": 154,
             "name": "Quest: Urf's Champion",
             "wr": 52,
-            "pr": 5.46,
+            "pr": 5.47,
             "games": 50
           },
           {
@@ -44285,14 +44285,14 @@
             "id": 29,
             "name": "Ethereal Weapon",
             "wr": 36.84,
-            "pr": 4.15,
+            "pr": 4.16,
             "games": 38
           },
           {
             "id": 223,
             "name": "Summoner Revolution",
             "wr": 50,
-            "pr": 3.93,
+            "pr": 3.94,
             "games": 36
           },
           {
@@ -44320,14 +44320,14 @@
             "id": 215,
             "name": "Dark Blessing",
             "wr": 54.55,
-            "pr": 2.4,
+            "pr": 2.41,
             "games": 22
           },
           {
             "id": 16,
             "name": "Combo Master",
             "wr": 36.36,
-            "pr": 2.4,
+            "pr": 2.41,
             "games": 22
           },
           {
@@ -44439,35 +44439,35 @@
             "id": 33,
             "name": "Extendo-Arm",
             "wr": 75,
-            "pr": 0.87,
+            "pr": 0.88,
             "games": 8
           },
           {
             "id": 152,
             "name": "Quest: Steel Your Heart",
             "wr": 75,
-            "pr": 0.87,
+            "pr": 0.88,
             "games": 8
           },
           {
             "id": 175,
             "name": "Parasitic Relationship",
             "wr": 100,
-            "pr": 0.87,
+            "pr": 0.88,
             "games": 8
           },
           {
             "id": 231,
             "name": "Light Warden",
             "wr": 100,
-            "pr": 0.87,
+            "pr": 0.88,
             "games": 8
           },
           {
             "id": 239,
             "name": "Symbiotic Mutation",
             "wr": 50,
-            "pr": 0.87,
+            "pr": 0.88,
             "games": 8
           },
           {
@@ -44560,77 +44560,77 @@
             "id": 48,
             "name": "Jeweled Gauntlet",
             "wr": 58.43,
-            "pr": 38.91,
+            "pr": 38.95,
             "games": 356
           },
           {
             "id": 86,
             "name": "Trueshot Prodigy",
             "wr": 59.56,
-            "pr": 29.73,
+            "pr": 29.76,
             "games": 272
           },
           {
             "id": 195,
             "name": "Giant Slayer",
             "wr": 69.17,
-            "pr": 26.23,
+            "pr": 26.26,
             "games": 240
           },
           {
             "id": 58,
             "name": "Mystic Punch",
             "wr": 55.88,
-            "pr": 22.3,
+            "pr": 22.32,
             "games": 204
           },
           {
             "id": 41,
             "name": "Goliath",
             "wr": 61.25,
-            "pr": 17.49,
+            "pr": 17.51,
             "games": 160
           },
           {
             "id": 6,
             "name": "Blade Waltz",
             "wr": 47.27,
-            "pr": 12.02,
+            "pr": 12.04,
             "games": 110
           },
           {
             "id": 219,
             "name": "Doomsayer",
             "wr": 44.44,
-            "pr": 9.84,
+            "pr": 9.85,
             "games": 90
           },
           {
             "id": 234,
             "name": "Gamba Anvil",
             "wr": 67.57,
-            "pr": 8.09,
+            "pr": 8.1,
             "games": 74
           },
           {
             "id": 310,
             "name": "Clown College",
             "wr": 84.85,
-            "pr": 7.21,
+            "pr": 7.22,
             "games": 66
           },
           {
             "id": 79,
             "name": "Symphony of War",
             "wr": 48.15,
-            "pr": 5.9,
+            "pr": 5.91,
             "games": 54
           },
           {
             "id": 194,
             "name": "Fey Magic",
             "wr": 69.23,
-            "pr": 5.68,
+            "pr": 5.69,
             "games": 52
           },
           {
@@ -44651,14 +44651,14 @@
             "id": 88,
             "name": "Ultimate Revolution",
             "wr": 55,
-            "pr": 4.37,
+            "pr": 4.38,
             "games": 40
           },
           {
             "id": 53,
             "name": "Mad Scientist",
             "wr": 57.89,
-            "pr": 4.15,
+            "pr": 4.16,
             "games": 38
           },
           {
@@ -44874,10 +44874,10 @@
         ]
       },
       "detail": {
-        "n": 915,
-        "wr": 55.3,
-        "pr": 4.49,
-        "rank": 98,
+        "n": 914,
+        "wr": 55.25,
+        "pr": 4.48,
+        "rank": 101,
         "rankTotal": 173,
         "tier": "B-"
       }
@@ -45897,9 +45897,9 @@
       "name": "Karma",
       "title": "the Enlightened One",
       "tier": "B-",
-      "rank": 99,
+      "rank": 98,
       "wr": 55.3,
-      "avgWrDelta": 1.22,
+      "avgWrDelta": 1.27,
       "pr": 5.79,
       "games": 944,
       "br": 0,
@@ -46958,7 +46958,7 @@
         "n": 944,
         "wr": 55.3,
         "pr": 4.63,
-        "rank": 99,
+        "rank": 98,
         "rankTotal": 173,
         "tier": "B-"
       }
@@ -49038,7 +49038,7 @@
       "tier": "C+",
       "rank": 118,
       "wr": 54.16,
-      "avgWrDelta": 6.13,
+      "avgWrDelta": 6.19,
       "pr": 5.02,
       "games": 818,
       "br": 0,
@@ -53459,7 +53459,7 @@
       "tier": "C-",
       "rank": 144,
       "wr": 52.95,
-      "avgWrDelta": 1.78,
+      "avgWrDelta": 1.87,
       "pr": 6.35,
       "games": 1035,
       "br": 0,
@@ -56913,7 +56913,7 @@
       "tier": "B",
       "rank": 84,
       "wr": 55.99,
-      "avgWrDelta": 6.62,
+      "avgWrDelta": 6.67,
       "pr": 6.24,
       "games": 1018,
       "br": 0,
@@ -61509,7 +61509,7 @@
       "tier": "B-",
       "rank": 105,
       "wr": 55.08,
-      "avgWrDelta": 6.39,
+      "avgWrDelta": 6.32,
       "pr": 4.83,
       "games": 788,
       "br": 0,
@@ -62565,7 +62565,7 @@
       "name": "Wukong",
       "title": "the Monkey King",
       "tier": "C+",
-      "rank": 127,
+      "rank": 126,
       "wr": 53.85,
       "avgWrDelta": 6.43,
       "pr": 4.62,
@@ -63696,7 +63696,7 @@
         "n": 754,
         "wr": 53.85,
         "pr": 3.7,
-        "rank": 127,
+        "rank": 126,
         "rankTotal": 173,
         "tier": "C+"
       }
@@ -63709,7 +63709,7 @@
       "tier": "S-",
       "rank": 18,
       "wr": 60.35,
-      "avgWrDelta": 6.31,
+      "avgWrDelta": 6.34,
       "pr": 9.06,
       "games": 1478,
       "br": 0,
@@ -71171,7 +71171,7 @@
       "tier": "D",
       "rank": 162,
       "wr": 51.15,
-      "avgWrDelta": 4.18,
+      "avgWrDelta": 4.13,
       "pr": 5.33,
       "games": 870,
       "br": 0,
@@ -75760,7 +75760,7 @@
       "tier": "C",
       "rank": 140,
       "wr": 53.04,
-      "avgWrDelta": 9.18,
+      "avgWrDelta": 9.17,
       "pr": 5.64,
       "games": 920,
       "br": 0,
@@ -76937,7 +76937,7 @@
       "tier": "A-",
       "rank": 57,
       "wr": 57.28,
-      "avgWrDelta": 6.62,
+      "avgWrDelta": 6.58,
       "pr": 5.73,
       "games": 934,
       "br": 0,
@@ -78072,7 +78072,7 @@
       "tier": "B+",
       "rank": 61,
       "wr": 57.11,
-      "avgWrDelta": 4.99,
+      "avgWrDelta": 4.95,
       "pr": 8.41,
       "games": 1371,
       "br": 0,
@@ -79263,7 +79263,7 @@
       "detail": {
         "n": 1371,
         "wr": 57.11,
-        "pr": 6.72,
+        "pr": 6.73,
         "rank": 61,
         "rankTotal": 173,
         "tier": "B+"
@@ -81589,7 +81589,7 @@
       "tier": "B-",
       "rank": 110,
       "wr": 54.99,
-      "avgWrDelta": 8.71,
+      "avgWrDelta": 8.77,
       "pr": 4.92,
       "games": 802,
       "br": 0,
@@ -92218,7 +92218,7 @@
       "tier": "S-",
       "rank": 19,
       "wr": 60.3,
-      "avgWrDelta": 6.85,
+      "avgWrDelta": 6.79,
       "pr": 4.53,
       "games": 738,
       "br": 0,
@@ -93213,7 +93213,7 @@
       "tier": "S+",
       "rank": 3,
       "wr": 63,
-      "avgWrDelta": 6.99,
+      "avgWrDelta": 7.04,
       "pr": 7.03,
       "games": 1146,
       "br": 0,
@@ -95476,7 +95476,7 @@
       "tier": "A",
       "rank": 31,
       "wr": 58.68,
-      "avgWrDelta": 7.81,
+      "avgWrDelta": 7.85,
       "pr": 7.73,
       "games": 1261,
       "br": 0,
@@ -96555,7 +96555,7 @@
       "tier": "A+",
       "rank": 20,
       "wr": 59.98,
-      "avgWrDelta": 6.66,
+      "avgWrDelta": 6.65,
       "pr": 6.05,
       "games": 987,
       "br": 0,
@@ -100098,7 +100098,7 @@
       "name": "Varus",
       "title": "the Arrow of Retribution",
       "tier": "B-",
-      "rank": 101,
+      "rank": 100,
       "wr": 55.26,
       "avgWrDelta": 7.52,
       "pr": 5.71,
@@ -101166,7 +101166,7 @@
         "n": 932,
         "wr": 55.26,
         "pr": 4.57,
-        "rank": 101,
+        "rank": 100,
         "rankTotal": 173,
         "tier": "B-"
       }
@@ -102314,7 +102314,7 @@
       "tier": "A",
       "rank": 33,
       "wr": 58.38,
-      "avgWrDelta": 9.38,
+      "avgWrDelta": 9.44,
       "pr": 5.08,
       "games": 829,
       "br": 0,
@@ -104276,7 +104276,7 @@
       "tier": "S",
       "rank": 12,
       "wr": 60.93,
-      "avgWrDelta": 5.71,
+      "avgWrDelta": 5.65,
       "pr": 5.41,
       "games": 883,
       "br": 0,
@@ -105369,7 +105369,7 @@
       "tier": "S",
       "rank": 6,
       "wr": 62.03,
-      "avgWrDelta": 7.98,
+      "avgWrDelta": 7.92,
       "pr": 4.54,
       "games": 740,
       "br": 0,
@@ -107434,11 +107434,11 @@
       "name": "Draven",
       "title": "the Glorious Executioner",
       "tier": "B+",
-      "rank": 76,
-      "wr": 56.21,
-      "avgWrDelta": 8.89,
-      "pr": 5.24,
-      "games": 854,
+      "rank": 75,
+      "wr": 56.27,
+      "avgWrDelta": 8.95,
+      "pr": 5.23,
+      "games": 853,
       "br": 0,
       "augments": {
         "silver": [
@@ -107446,42 +107446,42 @@
             "id": 82,
             "name": "The Brutalizer",
             "wr": 61.97,
-            "pr": 16.63,
+            "pr": 16.65,
             "games": 142
           },
           {
             "id": 206,
             "name": "escAPADe",
             "wr": 54.84,
-            "pr": 14.52,
+            "pr": 14.54,
             "games": 124
           },
           {
             "id": 22,
             "name": "Deft",
             "wr": 56.9,
-            "pr": 13.58,
+            "pr": 13.6,
             "games": 116
           },
           {
             "id": 138,
             "name": "Goredrink",
             "wr": 60,
-            "pr": 12.88,
+            "pr": 12.9,
             "games": 110
           },
           {
             "id": 324,
             "name": "Bravest of the Brave",
             "wr": 36.36,
-            "pr": 7.73,
+            "pr": 7.74,
             "games": 66
           },
           {
             "id": 120,
             "name": "Serve Beyond Death",
             "wr": 53.13,
-            "pr": 7.49,
+            "pr": 7.5,
             "games": 64
           },
           {
@@ -107495,28 +107495,28 @@
             "id": 87,
             "name": "Typhoon",
             "wr": 42.86,
-            "pr": 6.56,
+            "pr": 6.57,
             "games": 56
           },
           {
             "id": 305,
             "name": "Leg Day",
             "wr": 41.67,
-            "pr": 5.62,
+            "pr": 5.63,
             "games": 48
           },
           {
             "id": 171,
             "name": "Dematerialize",
             "wr": 65,
-            "pr": 4.68,
+            "pr": 4.69,
             "games": 40
           },
           {
             "id": 322,
             "name": "Augmented Power",
             "wr": 70,
-            "pr": 4.68,
+            "pr": 4.69,
             "games": 40
           },
           {
@@ -107558,14 +107558,14 @@
             "id": 226,
             "name": "Stats!",
             "wr": 66.67,
-            "pr": 3.51,
+            "pr": 3.52,
             "games": 30
           },
           {
             "id": 80,
             "name": "Tank It Or Leave It",
             "wr": 60,
-            "pr": 3.51,
+            "pr": 3.52,
             "games": 30
           },
           {
@@ -107593,14 +107593,14 @@
             "id": 316,
             "name": "Grievous Venom",
             "wr": 37.5,
-            "pr": 1.87,
+            "pr": 1.88,
             "games": 16
           },
           {
             "id": 51,
             "name": "Light 'em Up!",
             "wr": 50,
-            "pr": 1.87,
+            "pr": 1.88,
             "games": 16
           },
           {
@@ -107632,6 +107632,13 @@
             "games": 10
           },
           {
+            "id": 335,
+            "name": "Panic Room",
+            "wr": 75,
+            "pr": 0.94,
+            "games": 8
+          },
+          {
             "id": 105,
             "name": "Homeguard",
             "wr": 25,
@@ -107646,13 +107653,6 @@
             "games": 8
           },
           {
-            "id": 335,
-            "name": "Panic Room",
-            "wr": 75,
-            "pr": 0.94,
-            "games": 8
-          },
-          {
             "id": 240,
             "name": "Parasitic Mutation",
             "wr": 66.67,
@@ -107660,16 +107660,16 @@
             "games": 6
           },
           {
-            "id": 308,
-            "name": "Firefox",
-            "wr": 0,
+            "id": 110,
+            "name": "Clothesline",
+            "wr": 50,
             "pr": 0.47,
             "games": 4
           },
           {
-            "id": 110,
-            "name": "Clothesline",
-            "wr": 50,
+            "id": 308,
+            "name": "Firefox",
+            "wr": 0,
             "pr": 0.47,
             "games": 4
           },
@@ -107681,15 +107681,15 @@
             "games": 4
           },
           {
-            "id": 108,
-            "name": "Self Destruct",
+            "id": 12,
+            "name": "Castle",
             "wr": 100,
             "pr": 0.47,
             "games": 4
           },
           {
-            "id": 12,
-            "name": "Castle",
+            "id": 9,
+            "name": "Buff Buddies",
             "wr": 100,
             "pr": 0.47,
             "games": 4
@@ -107702,15 +107702,15 @@
             "games": 4
           },
           {
-            "id": 9,
-            "name": "Buff Buddies",
+            "id": 108,
+            "name": "Self Destruct",
             "wr": 100,
             "pr": 0.47,
             "games": 4
           },
           {
-            "id": 207,
-            "name": "Hold Very Still",
+            "id": 93,
+            "name": "Warmup Routine",
             "wr": 0,
             "pr": 0.23,
             "games": 2
@@ -107723,15 +107723,15 @@
             "games": 2
           },
           {
-            "id": 93,
-            "name": "Warmup Routine",
+            "id": 10,
+            "name": "Cannon Fodder",
             "wr": 0,
             "pr": 0.23,
             "games": 2
           },
           {
-            "id": 10,
-            "name": "Cannon Fodder",
+            "id": 207,
+            "name": "Hold Very Still",
             "wr": 0,
             "pr": 0.23,
             "games": 2
@@ -107744,23 +107744,9 @@
             "games": 2
           },
           {
-            "id": 39,
-            "name": "Frost Wraith",
-            "wr": 100,
-            "pr": 0.23,
-            "games": 2
-          },
-          {
-            "id": 60,
-            "name": "Ocean Soul",
+            "id": 229,
+            "name": "Fire Sale",
             "wr": 0,
-            "pr": 0.23,
-            "games": 2
-          },
-          {
-            "id": 28,
-            "name": "Erosion",
-            "wr": 100,
             "pr": 0.23,
             "games": 2
           },
@@ -107772,8 +107758,15 @@
             "games": 2
           },
           {
-            "id": 229,
-            "name": "Fire Sale",
+            "id": 28,
+            "name": "Erosion",
+            "wr": 100,
+            "pr": 0.23,
+            "games": 2
+          },
+          {
+            "id": 60,
+            "name": "Ocean Soul",
             "wr": 0,
             "pr": 0.23,
             "games": 2
@@ -107793,6 +107786,13 @@
             "games": 2
           },
           {
+            "id": 39,
+            "name": "Frost Wraith",
+            "wr": 100,
+            "pr": 0.23,
+            "games": 2
+          },
+          {
             "id": 102,
             "name": "Don't Chase",
             "wr": 100,
@@ -107805,70 +107805,70 @@
             "id": 200,
             "name": "Blood Brother",
             "wr": 60.34,
-            "pr": 108.67,
+            "pr": 108.79,
             "games": 928
           },
           {
             "id": 84,
             "name": "Thread the Needle",
             "wr": 54.93,
-            "pr": 16.63,
+            "pr": 16.65,
             "games": 142
           },
           {
             "id": 238,
             "name": "Transmute: Prismatic",
             "wr": 59.18,
-            "pr": 11.48,
+            "pr": 11.49,
             "games": 98
           },
           {
             "id": 52,
             "name": "Lightning Strikes",
             "wr": 66.67,
-            "pr": 9.13,
+            "pr": 9.14,
             "games": 78
           },
           {
             "id": 36,
             "name": "Firebrand",
             "wr": 70.59,
-            "pr": 7.96,
+            "pr": 7.97,
             "games": 68
           },
           {
             "id": 74,
             "name": "Shrink Ray",
             "wr": 54.55,
-            "pr": 7.73,
+            "pr": 7.74,
             "games": 66
           },
           {
             "id": 47,
             "name": "It's Critical",
             "wr": 61.29,
-            "pr": 7.26,
+            "pr": 7.27,
             "games": 62
           },
           {
             "id": 336,
             "name": "Aim for the Head",
             "wr": 58.62,
-            "pr": 6.79,
+            "pr": 6.8,
             "games": 58
           },
           {
             "id": 92,
             "name": "Vulnerability",
             "wr": 62.96,
-            "pr": 6.32,
+            "pr": 6.33,
             "games": 54
           },
           {
             "id": 77,
             "name": "Soul Siphon",
             "wr": 56,
-            "pr": 5.85,
+            "pr": 5.86,
             "games": 50
           },
           {
@@ -107882,7 +107882,7 @@
             "id": 107,
             "name": "Twice Thrice",
             "wr": 47.06,
-            "pr": 3.98,
+            "pr": 3.99,
             "games": 34
           },
           {
@@ -107910,14 +107910,14 @@
             "id": 301,
             "name": "Divine Intervention",
             "wr": 50,
-            "pr": 1.87,
+            "pr": 1.88,
             "games": 16
           },
           {
             "id": 116,
             "name": "Flashy",
             "wr": 50,
-            "pr": 1.87,
+            "pr": 1.88,
             "games": 16
           },
           {
@@ -107963,13 +107963,6 @@
             "games": 8
           },
           {
-            "id": 90,
-            "name": "Vengeance",
-            "wr": 66.67,
-            "pr": 0.7,
-            "games": 6
-          },
-          {
             "id": 241,
             "name": "Hat Trick",
             "wr": 33.33,
@@ -107977,8 +107970,29 @@
             "games": 6
           },
           {
-            "id": 357,
-            "name": "Hybrid",
+            "id": 24,
+            "name": "Die Another Day",
+            "wr": 33.33,
+            "pr": 0.7,
+            "games": 6
+          },
+          {
+            "id": 150,
+            "name": "Bread And Jam",
+            "wr": 66.67,
+            "pr": 0.7,
+            "games": 6
+          },
+          {
+            "id": 90,
+            "name": "Vengeance",
+            "wr": 66.67,
+            "pr": 0.7,
+            "games": 6
+          },
+          {
+            "id": 309,
+            "name": "And My Axe!",
             "wr": 100,
             "pr": 0.7,
             "games": 6
@@ -107991,16 +108005,9 @@
             "games": 6
           },
           {
-            "id": 309,
-            "name": "And My Axe!",
+            "id": 357,
+            "name": "Hybrid",
             "wr": 100,
-            "pr": 0.7,
-            "games": 6
-          },
-          {
-            "id": 24,
-            "name": "Die Another Day",
-            "wr": 33.33,
             "pr": 0.7,
             "games": 6
           },
@@ -108012,16 +108019,9 @@
             "games": 6
           },
           {
-            "id": 150,
-            "name": "Bread And Jam",
-            "wr": 66.67,
-            "pr": 0.7,
-            "games": 6
-          },
-          {
-            "id": 16,
-            "name": "Combo Master",
-            "wr": 50,
+            "id": 29,
+            "name": "Ethereal Weapon",
+            "wr": 100,
             "pr": 0.47,
             "games": 4
           },
@@ -108033,15 +108033,8 @@
             "games": 4
           },
           {
-            "id": 29,
-            "name": "Ethereal Weapon",
-            "wr": 100,
-            "pr": 0.47,
-            "games": 4
-          },
-          {
-            "id": 89,
-            "name": "Vanish",
+            "id": 16,
+            "name": "Combo Master",
             "wr": 50,
             "pr": 0.47,
             "games": 4
@@ -108054,11 +108047,11 @@
             "games": 4
           },
           {
-            "id": 231,
-            "name": "Light Warden",
-            "wr": 0,
-            "pr": 0.23,
-            "games": 2
+            "id": 89,
+            "name": "Vanish",
+            "wr": 50,
+            "pr": 0.47,
+            "games": 4
           },
           {
             "id": 175,
@@ -108068,16 +108061,9 @@
             "games": 2
           },
           {
-            "id": 64,
-            "name": "Perseverance",
+            "id": 231,
+            "name": "Light Warden",
             "wr": 0,
-            "pr": 0.23,
-            "games": 2
-          },
-          {
-            "id": 211,
-            "name": "It's Killing Time",
-            "wr": 100,
             "pr": 0.23,
             "games": 2
           },
@@ -108089,8 +108075,22 @@
             "games": 2
           },
           {
+            "id": 64,
+            "name": "Perseverance",
+            "wr": 0,
+            "pr": 0.23,
+            "games": 2
+          },
+          {
             "id": 13,
             "name": "Celestial Body",
+            "wr": 100,
+            "pr": 0.23,
+            "games": 2
+          },
+          {
+            "id": 211,
+            "name": "It's Killing Time",
             "wr": 100,
             "pr": 0.23,
             "games": 2
@@ -108115,112 +108115,112 @@
             "id": 225,
             "name": "Dual Wield",
             "wr": 63.64,
-            "pr": 38.64,
+            "pr": 38.69,
             "games": 330
           },
           {
             "id": 220,
             "name": "Fan the Hammer",
             "wr": 63.29,
-            "pr": 37,
+            "pr": 37.05,
             "games": 316
           },
           {
             "id": 134,
             "name": "Draw Your Sword",
             "wr": 59.71,
-            "pr": 32.55,
+            "pr": 32.59,
             "games": 278
           },
           {
             "id": 115,
             "name": "Scopiest Weapons",
             "wr": 57.28,
-            "pr": 24.12,
+            "pr": 24.15,
             "games": 206
           },
           {
             "id": 79,
             "name": "Symphony of War",
-            "wr": 54.26,
-            "pr": 22.01,
-            "games": 188
+            "wr": 54.84,
+            "pr": 21.81,
+            "games": 186
           },
           {
             "id": 195,
             "name": "Giant Slayer",
             "wr": 66.23,
-            "pr": 18.03,
+            "pr": 18.05,
             "games": 154
           },
           {
             "id": 81,
             "name": "Tap Dancer",
-            "wr": 59.65,
-            "pr": 13.35,
-            "games": 114
+            "wr": 60.71,
+            "pr": 13.13,
+            "games": 112
           },
           {
             "id": 323,
             "name": "Cerberus",
             "wr": 52.08,
-            "pr": 11.24,
+            "pr": 11.25,
             "games": 96
           },
           {
             "id": 41,
             "name": "Goliath",
             "wr": 56.41,
-            "pr": 9.13,
+            "pr": 9.14,
             "games": 78
           },
           {
             "id": 234,
             "name": "Gamba Anvil",
             "wr": 82.14,
-            "pr": 6.56,
+            "pr": 6.57,
             "games": 56
           },
           {
             "id": 48,
             "name": "Jeweled Gauntlet",
             "wr": 66.67,
-            "pr": 6.32,
+            "pr": 6.33,
             "games": 54
           },
           {
             "id": 6,
             "name": "Blade Waltz",
             "wr": 44.44,
-            "pr": 6.32,
+            "pr": 6.33,
             "games": 54
           },
           {
             "id": 228,
             "name": "Stats on Stats on Stats!",
             "wr": 70,
-            "pr": 4.68,
+            "pr": 4.69,
             "games": 40
           },
           {
             "id": 58,
             "name": "Mystic Punch",
             "wr": 53.33,
-            "pr": 3.51,
+            "pr": 3.52,
             "games": 30
           },
           {
             "id": 310,
             "name": "Clown College",
             "wr": 69.23,
-            "pr": 3.04,
+            "pr": 3.05,
             "games": 26
           },
           {
             "id": 219,
             "name": "Doomsayer",
             "wr": 53.85,
-            "pr": 3.04,
+            "pr": 3.05,
             "games": 26
           },
           {
@@ -108241,14 +108241,14 @@
             "id": 96,
             "name": "Wisdom of Ages",
             "wr": 87.5,
-            "pr": 1.87,
+            "pr": 1.88,
             "games": 16
           },
           {
             "id": 333,
             "name": "Quest: Rite Of The Forge God",
             "wr": 37.5,
-            "pr": 1.87,
+            "pr": 1.88,
             "games": 16
           },
           {
@@ -108301,8 +108301,8 @@
             "games": 10
           },
           {
-            "id": 194,
-            "name": "Fey Magic",
+            "id": 216,
+            "name": "Dreadbringer",
             "wr": 50,
             "pr": 0.94,
             "games": 8
@@ -108315,8 +108315,8 @@
             "games": 8
           },
           {
-            "id": 216,
-            "name": "Dreadbringer",
+            "id": 194,
+            "name": "Fey Magic",
             "wr": 50,
             "pr": 0.94,
             "games": 8
@@ -108343,8 +108343,8 @@
             "games": 6
           },
           {
-            "id": 75,
-            "name": "Slow Cooker",
+            "id": 233,
+            "name": "Ultimate Roulette",
             "wr": 50,
             "pr": 0.47,
             "games": 4
@@ -108357,8 +108357,8 @@
             "games": 4
           },
           {
-            "id": 233,
-            "name": "Ultimate Roulette",
+            "id": 75,
+            "name": "Slow Cooker",
             "wr": 50,
             "pr": 0.47,
             "games": 4
@@ -108401,10 +108401,10 @@
         ]
       },
       "detail": {
-        "n": 854,
-        "wr": 56.21,
-        "pr": 4.19,
-        "rank": 76,
+        "n": 853,
+        "wr": 56.27,
+        "pr": 4.18,
+        "rank": 75,
         "rankTotal": 173,
         "tier": "B+"
       }
@@ -110624,7 +110624,7 @@
       "tier": "C-",
       "rank": 152,
       "wr": 52.02,
-      "avgWrDelta": 5.21,
+      "avgWrDelta": 5.26,
       "pr": 5.9,
       "games": 963,
       "br": 0,
@@ -111759,7 +111759,7 @@
       "tier": "D+",
       "rank": 155,
       "wr": 51.67,
-      "avgWrDelta": 4.91,
+      "avgWrDelta": 4.85,
       "pr": 4.95,
       "games": 807,
       "br": 0,
@@ -112839,7 +112839,7 @@
       "rank": 48,
       "wr": 57.71,
       "avgWrDelta": 9.03,
-      "pr": 4.33,
+      "pr": 4.34,
       "games": 707,
       "br": 0,
       "augments": {
@@ -116096,7 +116096,7 @@
       "tier": "B",
       "rank": 87,
       "wr": 55.86,
-      "avgWrDelta": 6.47,
+      "avgWrDelta": 6.4,
       "pr": 4.76,
       "games": 777,
       "br": 0,
@@ -121218,7 +121218,7 @@
       "tier": "C",
       "rank": 138,
       "wr": 53.09,
-      "avgWrDelta": 6.28,
+      "avgWrDelta": 6.21,
       "pr": 9.92,
       "games": 1618,
       "br": 0,
@@ -125602,11 +125602,11 @@
       "name": "Yasuo",
       "title": "the Unforgiven",
       "tier": "A",
-      "rank": 40,
-      "wr": 58.14,
+      "rank": 41,
+      "wr": 58.1,
       "avgWrDelta": 6.18,
-      "pr": 7.05,
-      "games": 1149,
+      "pr": 7.04,
+      "games": 1148,
       "br": 0,
       "augments": {
         "silver": [
@@ -125614,42 +125614,42 @@
             "id": 22,
             "name": "Deft",
             "wr": 57.58,
-            "pr": 22.98,
+            "pr": 23,
             "games": 264
           },
           {
             "id": 206,
             "name": "escAPADe",
             "wr": 60.26,
-            "pr": 13.58,
+            "pr": 13.59,
             "games": 156
           },
           {
             "id": 138,
             "name": "Goredrink",
             "wr": 66.15,
-            "pr": 11.31,
+            "pr": 11.32,
             "games": 130
           },
           {
             "id": 251,
             "name": "Numb to Pain",
             "wr": 69.09,
-            "pr": 9.57,
+            "pr": 9.58,
             "games": 110
           },
           {
             "id": 51,
             "name": "Light 'em Up!",
             "wr": 63.83,
-            "pr": 8.18,
+            "pr": 8.19,
             "games": 94
           },
           {
             "id": 17,
             "name": "Contract Killer",
             "wr": 65.96,
-            "pr": 8.18,
+            "pr": 8.19,
             "games": 94
           },
           {
@@ -125670,7 +125670,7 @@
             "id": 80,
             "name": "Tank It Or Leave It",
             "wr": 51.52,
-            "pr": 5.74,
+            "pr": 5.75,
             "games": 66
           },
           {
@@ -125684,15 +125684,8 @@
             "id": 324,
             "name": "Bravest of the Brave",
             "wr": 46.43,
-            "pr": 4.87,
+            "pr": 4.88,
             "games": 56
-          },
-          {
-            "id": 237,
-            "name": "Transmute: Gold",
-            "wr": 59.26,
-            "pr": 4.7,
-            "games": 54
           },
           {
             "id": 330,
@@ -125702,10 +125695,17 @@
             "games": 54
           },
           {
+            "id": 237,
+            "name": "Transmute: Gold",
+            "wr": 59.26,
+            "pr": 4.7,
+            "games": 54
+          },
+          {
             "id": 305,
             "name": "Leg Day",
             "wr": 56,
-            "pr": 4.35,
+            "pr": 4.36,
             "games": 50
           },
           {
@@ -125716,17 +125716,17 @@
             "games": 42
           },
           {
-            "id": 34,
-            "name": "Fallen Aegis",
-            "wr": 61.11,
-            "pr": 3.13,
-            "games": 36
-          },
-          {
             "id": 7,
             "name": "Blunt Force",
             "wr": 77.78,
-            "pr": 3.13,
+            "pr": 3.14,
+            "games": 36
+          },
+          {
+            "id": 34,
+            "name": "Fallen Aegis",
+            "wr": 61.11,
+            "pr": 3.14,
             "games": 36
           },
           {
@@ -125768,7 +125768,7 @@
             "id": 171,
             "name": "Dematerialize",
             "wr": 54.55,
-            "pr": 1.91,
+            "pr": 1.92,
             "games": 22
           },
           {
@@ -125786,13 +125786,6 @@
             "games": 14
           },
           {
-            "id": 335,
-            "name": "Panic Room",
-            "wr": 100,
-            "pr": 1.22,
-            "games": 14
-          },
-          {
             "id": 46,
             "name": "Infernal Soul",
             "wr": 71.43,
@@ -125800,31 +125793,38 @@
             "games": 14
           },
           {
+            "id": 335,
+            "name": "Panic Room",
+            "wr": 100,
+            "pr": 1.22,
+            "games": 14
+          },
+          {
             "id": 110,
             "name": "Clothesline",
             "wr": 100,
-            "pr": 1.04,
-            "games": 12
-          },
-          {
-            "id": 108,
-            "name": "Self Destruct",
-            "wr": 50,
-            "pr": 1.04,
-            "games": 12
-          },
-          {
-            "id": 9,
-            "name": "Buff Buddies",
-            "wr": 66.67,
-            "pr": 1.04,
+            "pr": 1.05,
             "games": 12
           },
           {
             "id": 172,
             "name": "Mirror Image",
             "wr": 16.67,
-            "pr": 1.04,
+            "pr": 1.05,
+            "games": 12
+          },
+          {
+            "id": 9,
+            "name": "Buff Buddies",
+            "wr": 66.67,
+            "pr": 1.05,
+            "games": 12
+          },
+          {
+            "id": 108,
+            "name": "Self Destruct",
+            "wr": 50,
+            "pr": 1.05,
             "games": 12
           },
           {
@@ -125856,16 +125856,16 @@
             "games": 8
           },
           {
-            "id": 43,
-            "name": "Now You See Me",
-            "wr": 50,
-            "pr": 0.7,
-            "games": 8
-          },
-          {
             "id": 93,
             "name": "Warmup Routine",
             "wr": 66.67,
+            "pr": 0.52,
+            "games": 6
+          },
+          {
+            "id": 43,
+            "name": "Now You See Me",
+            "wr": 33.33,
             "pr": 0.52,
             "games": 6
           },
@@ -126001,77 +126001,77 @@
             "id": 52,
             "name": "Lightning Strikes",
             "wr": 60.28,
-            "pr": 37.25,
+            "pr": 37.28,
             "games": 428
           },
           {
             "id": 36,
             "name": "Firebrand",
             "wr": 55.83,
-            "pr": 20.89,
+            "pr": 20.91,
             "games": 240
           },
           {
             "id": 238,
             "name": "Transmute: Prismatic",
             "wr": 67.74,
-            "pr": 16.19,
+            "pr": 16.2,
             "games": 186
           },
           {
             "id": 107,
             "name": "Twice Thrice",
             "wr": 61.9,
-            "pr": 14.62,
+            "pr": 14.63,
             "games": 168
           },
           {
             "id": 63,
             "name": "Outlaw's Grit",
             "wr": 48.19,
-            "pr": 14.45,
+            "pr": 14.46,
             "games": 166
           },
           {
             "id": 336,
             "name": "Aim for the Head",
             "wr": 39.24,
-            "pr": 13.75,
+            "pr": 13.76,
             "games": 158
           },
           {
             "id": 77,
             "name": "Soul Siphon",
             "wr": 64.18,
-            "pr": 11.66,
+            "pr": 11.67,
             "games": 134
           },
           {
             "id": 74,
             "name": "Shrink Ray",
             "wr": 61.54,
-            "pr": 11.31,
+            "pr": 11.32,
             "games": 130
           },
           {
             "id": 23,
             "name": "Demon's Dance",
             "wr": 54.55,
-            "pr": 9.57,
+            "pr": 9.58,
             "games": 110
           },
           {
             "id": 217,
             "name": "Deathtouch",
             "wr": 46.15,
-            "pr": 9.05,
+            "pr": 9.06,
             "games": 104
           },
           {
             "id": 92,
             "name": "Vulnerability",
             "wr": 68.63,
-            "pr": 8.88,
+            "pr": 8.89,
             "games": 102
           },
           {
@@ -126124,16 +126124,16 @@
             "games": 34
           },
           {
-            "id": 29,
-            "name": "Ethereal Weapon",
-            "wr": 40,
+            "id": 118,
+            "name": "Critical Healing",
+            "wr": 73.33,
             "pr": 2.61,
             "games": 30
           },
           {
-            "id": 118,
-            "name": "Critical Healing",
-            "wr": 73.33,
+            "id": 29,
+            "name": "Ethereal Weapon",
+            "wr": 40,
             "pr": 2.61,
             "games": 30
           },
@@ -126148,14 +126148,14 @@
             "id": 301,
             "name": "Divine Intervention",
             "wr": 63.64,
-            "pr": 1.91,
+            "pr": 1.92,
             "games": 22
           },
           {
             "id": 116,
             "name": "Flashy",
             "wr": 72.73,
-            "pr": 1.91,
+            "pr": 1.92,
             "games": 22
           },
           {
@@ -126187,8 +126187,8 @@
             "games": 14
           },
           {
-            "id": 21,
-            "name": "Defensive Maneuvers",
+            "id": 20,
+            "name": "Dawnbringer's Resolve",
             "wr": 57.14,
             "pr": 1.22,
             "games": 14
@@ -126201,8 +126201,8 @@
             "games": 14
           },
           {
-            "id": 20,
-            "name": "Dawnbringer's Resolve",
+            "id": 21,
+            "name": "Defensive Maneuvers",
             "wr": 57.14,
             "pr": 1.22,
             "games": 14
@@ -126211,28 +126211,28 @@
             "id": 321,
             "name": "Bodyguard",
             "wr": 33.33,
-            "pr": 1.04,
+            "pr": 1.05,
             "games": 12
           },
           {
             "id": 33,
             "name": "Extendo-Arm",
             "wr": 83.33,
-            "pr": 1.04,
+            "pr": 1.05,
             "games": 12
           },
           {
             "id": 241,
             "name": "Hat Trick",
             "wr": 33.33,
-            "pr": 1.04,
+            "pr": 1.05,
             "games": 12
           },
           {
             "id": 152,
             "name": "Quest: Steel Your Heart",
             "wr": 50,
-            "pr": 1.04,
+            "pr": 1.05,
             "games": 12
           },
           {
@@ -126402,49 +126402,49 @@
             "id": 225,
             "name": "Dual Wield",
             "wr": 66.81,
-            "pr": 39.34,
+            "pr": 39.37,
             "games": 452
           },
           {
             "id": 58,
             "name": "Mystic Punch",
             "wr": 71.17,
-            "pr": 38.64,
+            "pr": 38.68,
             "games": 444
           },
           {
             "id": 79,
             "name": "Symphony of War",
-            "wr": 67.6,
-            "pr": 31.16,
-            "games": 358
+            "wr": 67.42,
+            "pr": 31.01,
+            "games": 356
           },
           {
             "id": 220,
             "name": "Fan the Hammer",
             "wr": 66.94,
-            "pr": 21.06,
+            "pr": 21.08,
             "games": 242
           },
           {
             "id": 81,
             "name": "Tap Dancer",
             "wr": 67.02,
-            "pr": 16.36,
+            "pr": 16.38,
             "games": 188
           },
           {
             "id": 310,
             "name": "Clown College",
             "wr": 68.42,
-            "pr": 13.23,
+            "pr": 13.24,
             "games": 152
           },
           {
             "id": 195,
             "name": "Giant Slayer",
             "wr": 67.74,
-            "pr": 10.79,
+            "pr": 10.8,
             "games": 124
           },
           {
@@ -126465,14 +126465,14 @@
             "id": 323,
             "name": "Cerberus",
             "wr": 52.63,
-            "pr": 6.61,
+            "pr": 6.62,
             "games": 76
           },
           {
             "id": 219,
             "name": "Doomsayer",
             "wr": 43.24,
-            "pr": 6.44,
+            "pr": 6.45,
             "games": 74
           },
           {
@@ -126504,16 +126504,16 @@
             "games": 40
           },
           {
-            "id": 216,
-            "name": "Dreadbringer",
-            "wr": 52.94,
+            "id": 228,
+            "name": "Stats on Stats on Stats!",
+            "wr": 76.47,
             "pr": 2.96,
             "games": 34
           },
           {
-            "id": 228,
-            "name": "Stats on Stats on Stats!",
-            "wr": 76.47,
+            "id": 216,
+            "name": "Dreadbringer",
+            "wr": 52.94,
             "pr": 2.96,
             "games": 34
           },
@@ -126535,7 +126535,7 @@
             "id": 53,
             "name": "Mad Scientist",
             "wr": 90.91,
-            "pr": 1.91,
+            "pr": 1.92,
             "games": 22
           },
           {
@@ -126570,7 +126570,7 @@
             "id": 96,
             "name": "Wisdom of Ages",
             "wr": 50,
-            "pr": 1.04,
+            "pr": 1.05,
             "games": 12
           },
           {
@@ -126695,10 +126695,10 @@
         ]
       },
       "detail": {
-        "n": 1149,
-        "wr": 58.14,
-        "pr": 5.64,
-        "rank": 40,
+        "n": 1148,
+        "wr": 58.1,
+        "pr": 5.63,
+        "rank": 41,
         "rankTotal": 173,
         "tier": "A"
       }
@@ -132960,10 +132960,10 @@
       "title": "the Virtuoso",
       "tier": "A-",
       "rank": 49,
-      "wr": 57.71,
-      "avgWrDelta": 5.76,
-      "pr": 9.98,
-      "games": 1627,
+      "wr": 57.69,
+      "avgWrDelta": 5.77,
+      "pr": 9.97,
+      "games": 1626,
       "br": 0,
       "augments": {
         "silver": [
@@ -132971,42 +132971,42 @@
             "id": 206,
             "name": "escAPADe",
             "wr": 65.06,
-            "pr": 20.41,
+            "pr": 20.42,
             "games": 332
           },
           {
             "id": 82,
             "name": "The Brutalizer",
             "wr": 63.7,
-            "pr": 16.59,
+            "pr": 16.61,
             "games": 270
           },
           {
             "id": 22,
             "name": "Deft",
             "wr": 63,
-            "pr": 12.29,
+            "pr": 12.3,
             "games": 200
           },
           {
             "id": 305,
             "name": "Leg Day",
             "wr": 69.79,
-            "pr": 11.8,
+            "pr": 11.81,
             "games": 192
           },
           {
             "id": 46,
             "name": "Infernal Soul",
             "wr": 60.87,
-            "pr": 11.31,
+            "pr": 11.32,
             "games": 184
           },
           {
             "id": 344,
             "name": "Energetic",
             "wr": 62.86,
-            "pr": 8.6,
+            "pr": 8.61,
             "games": 140
           },
           {
@@ -133019,15 +133019,15 @@
           {
             "id": 7,
             "name": "Blunt Force",
-            "wr": 65.45,
-            "pr": 6.76,
-            "games": 110
+            "wr": 64.81,
+            "pr": 6.64,
+            "games": 108
           },
           {
             "id": 120,
             "name": "Serve Beyond Death",
             "wr": 56.52,
-            "pr": 5.65,
+            "pr": 5.66,
             "games": 92
           },
           {
@@ -133041,7 +133041,7 @@
             "id": 32,
             "name": "Executioner",
             "wr": 66.67,
-            "pr": 4.79,
+            "pr": 4.8,
             "games": 78
           },
           {
@@ -133062,7 +133062,7 @@
             "id": 171,
             "name": "Dematerialize",
             "wr": 68,
-            "pr": 3.07,
+            "pr": 3.08,
             "games": 50
           },
           {
@@ -133097,7 +133097,7 @@
             "id": 51,
             "name": "Light 'em Up!",
             "wr": 54.55,
-            "pr": 2.7,
+            "pr": 2.71,
             "games": 44
           },
           {
@@ -133132,7 +133132,7 @@
             "id": 17,
             "name": "Contract Killer",
             "wr": 66.67,
-            "pr": 1.84,
+            "pr": 1.85,
             "games": 30
           },
           {
@@ -133195,7 +133195,7 @@
             "id": 60,
             "name": "Ocean Soul",
             "wr": 20,
-            "pr": 0.61,
+            "pr": 0.62,
             "games": 10
           },
           {
@@ -133315,50 +133315,50 @@
           {
             "id": 84,
             "name": "Thread the Needle",
-            "wr": 58.82,
-            "pr": 31.35,
-            "games": 510
+            "wr": 58.66,
+            "pr": 31.24,
+            "games": 508
           },
           {
             "id": 238,
             "name": "Transmute: Prismatic",
             "wr": 61.18,
-            "pr": 18.68,
+            "pr": 18.7,
             "games": 304
           },
           {
             "id": 38,
             "name": "From Beginning to End",
             "wr": 60,
-            "pr": 14.75,
+            "pr": 14.76,
             "games": 240
           },
           {
             "id": 336,
             "name": "Aim for the Head",
             "wr": 61.54,
-            "pr": 14.38,
+            "pr": 14.39,
             "games": 234
           },
           {
             "id": 47,
             "name": "It's Critical",
             "wr": 56.63,
-            "pr": 10.2,
+            "pr": 10.21,
             "games": 166
           },
           {
             "id": 77,
             "name": "Soul Siphon",
             "wr": 50,
-            "pr": 8.11,
+            "pr": 8.12,
             "games": 132
           },
           {
             "id": 227,
             "name": "Stats on Stats!",
             "wr": 66.1,
-            "pr": 7.25,
+            "pr": 7.26,
             "games": 118
           },
           {
@@ -133379,14 +133379,14 @@
             "id": 92,
             "name": "Vulnerability",
             "wr": 65.22,
-            "pr": 5.65,
+            "pr": 5.66,
             "games": 92
           },
           {
             "id": 61,
             "name": "OK Boomerang",
             "wr": 41.03,
-            "pr": 4.79,
+            "pr": 4.8,
             "games": 78
           },
           {
@@ -133442,7 +133442,7 @@
             "id": 2,
             "name": "Apex Inventor",
             "wr": 80,
-            "pr": 1.84,
+            "pr": 1.85,
             "games": 30
           },
           {
@@ -133547,14 +133547,14 @@
             "id": 24,
             "name": "Die Another Day",
             "wr": 80,
-            "pr": 0.61,
+            "pr": 0.62,
             "games": 10
           },
           {
             "id": 89,
             "name": "Vanish",
             "wr": 100,
-            "pr": 0.61,
+            "pr": 0.62,
             "games": 10
           },
           {
@@ -133710,56 +133710,56 @@
             "id": 220,
             "name": "Fan the Hammer",
             "wr": 65.93,
-            "pr": 44.74,
+            "pr": 44.77,
             "games": 728
           },
           {
             "id": 115,
             "name": "Scopiest Weapons",
             "wr": 57.14,
-            "pr": 35.28,
+            "pr": 35.3,
             "games": 574
           },
           {
             "id": 195,
             "name": "Giant Slayer",
             "wr": 69.64,
-            "pr": 30.36,
+            "pr": 30.38,
             "games": 494
           },
           {
             "id": 81,
             "name": "Tap Dancer",
             "wr": 62.62,
-            "pr": 25.32,
+            "pr": 25.34,
             "games": 412
           },
           {
             "id": 134,
             "name": "Draw Your Sword",
             "wr": 58.33,
-            "pr": 20.65,
+            "pr": 20.66,
             "games": 336
           },
           {
             "id": 86,
             "name": "Trueshot Prodigy",
             "wr": 65.25,
-            "pr": 17.33,
+            "pr": 17.34,
             "games": 282
           },
           {
             "id": 48,
             "name": "Jeweled Gauntlet",
             "wr": 66.17,
-            "pr": 16.35,
+            "pr": 16.36,
             "games": 266
           },
           {
             "id": 41,
             "name": "Goliath",
             "wr": 61.62,
-            "pr": 12.17,
+            "pr": 12.18,
             "games": 198
           },
           {
@@ -133773,48 +133773,48 @@
             "id": 323,
             "name": "Cerberus",
             "wr": 71.43,
-            "pr": 5.16,
-            "games": 84
-          },
-          {
-            "id": 6,
-            "name": "Blade Waltz",
-            "wr": 61.9,
-            "pr": 5.16,
+            "pr": 5.17,
             "games": 84
           },
           {
             "id": 228,
             "name": "Stats on Stats on Stats!",
             "wr": 80.95,
-            "pr": 5.16,
+            "pr": 5.17,
             "games": 84
+          },
+          {
+            "id": 6,
+            "name": "Blade Waltz",
+            "wr": 60.98,
+            "pr": 5.04,
+            "games": 82
           },
           {
             "id": 79,
             "name": "Symphony of War",
             "wr": 53.85,
-            "pr": 4.79,
+            "pr": 4.8,
             "games": 78
           },
           {
             "id": 310,
             "name": "Clown College",
             "wr": 71.43,
-            "pr": 4.3,
+            "pr": 4.31,
             "games": 70
-          },
-          {
-            "id": 219,
-            "name": "Doomsayer",
-            "wr": 46.67,
-            "pr": 3.69,
-            "games": 60
           },
           {
             "id": 177,
             "name": "Nesting Doll",
             "wr": 80,
+            "pr": 3.69,
+            "games": 60
+          },
+          {
+            "id": 219,
+            "name": "Doomsayer",
+            "wr": 46.67,
             "pr": 3.69,
             "games": 60
           },
@@ -133934,14 +133934,14 @@
             "id": 338,
             "name": "Hive Mind",
             "wr": 60,
-            "pr": 0.61,
+            "pr": 0.62,
             "games": 10
           },
           {
             "id": 88,
             "name": "Ultimate Revolution",
             "wr": 60,
-            "pr": 0.61,
+            "pr": 0.62,
             "games": 10
           },
           {
@@ -134031,8 +134031,8 @@
         ]
       },
       "detail": {
-        "n": 1627,
-        "wr": 57.71,
+        "n": 1626,
+        "wr": 57.69,
         "pr": 7.98,
         "rank": 49,
         "rankTotal": 173,
@@ -135068,11 +135068,11 @@
       "name": "Zeri",
       "title": "The Spark of Zaun",
       "tier": "C",
-      "rank": 132,
-      "wr": 53.64,
-      "avgWrDelta": 11.88,
-      "pr": 4.63,
-      "games": 755,
+      "rank": 133,
+      "wr": 53.57,
+      "avgWrDelta": 11.75,
+      "pr": 4.64,
+      "games": 756,
       "br": 0,
       "augments": {
         "silver": [
@@ -135080,91 +135080,91 @@
             "id": 22,
             "name": "Deft",
             "wr": 53.19,
-            "pr": 24.9,
+            "pr": 24.87,
             "games": 188
           },
           {
             "id": 87,
             "name": "Typhoon",
             "wr": 59.32,
-            "pr": 15.63,
+            "pr": 15.61,
             "games": 118
           },
           {
             "id": 206,
             "name": "escAPADe",
             "wr": 64.41,
-            "pr": 15.63,
+            "pr": 15.61,
             "games": 118
           },
           {
             "id": 51,
             "name": "Light 'em Up!",
             "wr": 51.06,
-            "pr": 12.45,
+            "pr": 12.43,
             "games": 94
           },
           {
             "id": 324,
             "name": "Bravest of the Brave",
             "wr": 45,
-            "pr": 10.6,
+            "pr": 10.58,
             "games": 80
           },
           {
             "id": 138,
             "name": "Goredrink",
             "wr": 55.56,
-            "pr": 9.54,
+            "pr": 9.52,
             "games": 72
           },
           {
             "id": 344,
             "name": "Energetic",
             "wr": 58.62,
-            "pr": 7.68,
+            "pr": 7.67,
             "games": 58
           },
           {
             "id": 305,
             "name": "Leg Day",
             "wr": 67.86,
-            "pr": 7.42,
+            "pr": 7.41,
             "games": 56
           },
           {
             "id": 322,
             "name": "Augmented Power",
             "wr": 61.11,
-            "pr": 4.77,
+            "pr": 4.76,
             "games": 36
-          },
-          {
-            "id": 26,
-            "name": "Don't Blink",
-            "wr": 56.25,
-            "pr": 4.24,
-            "games": 32
           },
           {
             "id": 237,
             "name": "Transmute: Gold",
-            "wr": 50,
-            "pr": 4.24,
-            "games": 32
+            "wr": 44.44,
+            "pr": 4.76,
+            "games": 36
           },
           {
             "id": 226,
             "name": "Stats!",
-            "wr": 68.75,
-            "pr": 4.24,
-            "games": 32
+            "wr": 64.71,
+            "pr": 4.5,
+            "games": 34
           },
           {
             "id": 171,
             "name": "Dematerialize",
             "wr": 56.25,
-            "pr": 4.24,
+            "pr": 4.23,
+            "games": 32
+          },
+          {
+            "id": 26,
+            "name": "Don't Blink",
+            "wr": 56.25,
+            "pr": 4.23,
             "games": 32
           },
           {
@@ -135178,7 +135178,7 @@
             "id": 80,
             "name": "Tank It Or Leave It",
             "wr": 75,
-            "pr": 3.18,
+            "pr": 3.17,
             "games": 24
           },
           {
@@ -135432,63 +135432,63 @@
             "id": 36,
             "name": "Firebrand",
             "wr": 51.61,
-            "pr": 41.06,
+            "pr": 41.01,
             "games": 310
           },
           {
             "id": 107,
             "name": "Twice Thrice",
             "wr": 52.38,
-            "pr": 33.38,
+            "pr": 33.33,
             "games": 252
           },
           {
             "id": 238,
             "name": "Transmute: Prismatic",
             "wr": 64.79,
-            "pr": 18.81,
+            "pr": 18.78,
             "games": 142
           },
           {
             "id": 217,
             "name": "Deathtouch",
             "wr": 35.09,
-            "pr": 15.1,
+            "pr": 15.08,
             "games": 114
           },
           {
             "id": 74,
             "name": "Shrink Ray",
             "wr": 60.47,
-            "pr": 11.39,
+            "pr": 11.38,
             "games": 86
           },
           {
             "id": 92,
             "name": "Vulnerability",
             "wr": 71.05,
-            "pr": 10.07,
+            "pr": 10.05,
             "games": 76
           },
           {
             "id": 77,
             "name": "Soul Siphon",
             "wr": 62.86,
-            "pr": 9.27,
+            "pr": 9.26,
             "games": 70
           },
           {
             "id": 336,
             "name": "Aim for the Head",
             "wr": 48.57,
-            "pr": 9.27,
+            "pr": 9.26,
             "games": 70
           },
           {
             "id": 47,
             "name": "It's Critical",
             "wr": 46.15,
-            "pr": 6.89,
+            "pr": 6.88,
             "games": 52
           },
           {
@@ -135502,7 +135502,7 @@
             "id": 154,
             "name": "Quest: Urf's Champion",
             "wr": 50,
-            "pr": 3.71,
+            "pr": 3.7,
             "games": 28
           },
           {
@@ -135791,56 +135791,56 @@
             "id": 81,
             "name": "Tap Dancer",
             "wr": 55.56,
-            "pr": 66.75,
+            "pr": 66.67,
             "games": 504
           },
           {
             "id": 220,
             "name": "Fan the Hammer",
             "wr": 65.88,
-            "pr": 45.03,
+            "pr": 44.97,
             "games": 340
           },
           {
             "id": 79,
             "name": "Symphony of War",
             "wr": 64.71,
-            "pr": 31.52,
+            "pr": 31.48,
             "games": 238
           },
           {
             "id": 195,
             "name": "Giant Slayer",
             "wr": 70.91,
-            "pr": 29.14,
+            "pr": 29.1,
             "games": 220
           },
           {
             "id": 115,
             "name": "Scopiest Weapons",
             "wr": 55.07,
-            "pr": 18.28,
+            "pr": 18.25,
             "games": 138
           },
           {
             "id": 58,
             "name": "Mystic Punch",
             "wr": 59.38,
-            "pr": 8.48,
+            "pr": 8.47,
             "games": 64
           },
           {
             "id": 54,
             "name": "Master of Duality",
             "wr": 57.69,
-            "pr": 6.89,
+            "pr": 6.88,
             "games": 52
           },
           {
             "id": 234,
             "name": "Gamba Anvil",
             "wr": 37.5,
-            "pr": 6.36,
+            "pr": 6.35,
             "games": 48
           },
           {
@@ -135854,28 +135854,28 @@
             "id": 323,
             "name": "Cerberus",
             "wr": 50,
-            "pr": 4.24,
+            "pr": 4.23,
             "games": 32
           },
           {
             "id": 228,
             "name": "Stats on Stats on Stats!",
-            "wr": 46.67,
-            "pr": 3.97,
-            "games": 30
+            "wr": 43.75,
+            "pr": 4.23,
+            "games": 32
           },
           {
             "id": 333,
             "name": "Quest: Rite Of The Forge God",
             "wr": 66.67,
-            "pr": 3.18,
+            "pr": 3.17,
             "games": 24
           },
           {
             "id": 216,
             "name": "Dreadbringer",
             "wr": 58.33,
-            "pr": 3.18,
+            "pr": 3.17,
             "games": 24
           },
           {
@@ -136084,10 +136084,10 @@
         ]
       },
       "detail": {
-        "n": 755,
-        "wr": 53.64,
-        "pr": 3.7,
-        "rank": 132,
+        "n": 756,
+        "wr": 53.57,
+        "pr": 3.71,
+        "rank": 133,
         "rankTotal": 173,
         "tier": "C"
       }
@@ -138258,7 +138258,7 @@
       "tier": "A",
       "rank": 37,
       "wr": 58.29,
-      "avgWrDelta": 5.2,
+      "avgWrDelta": 5.3,
       "pr": 6.47,
       "games": 1055,
       "br": 0,
@@ -139386,7 +139386,7 @@
       "detail": {
         "n": 1055,
         "wr": 58.29,
-        "pr": 5.17,
+        "pr": 5.18,
         "rank": 37,
         "rankTotal": 173,
         "tier": "A"
@@ -139400,7 +139400,7 @@
       "tier": "C-",
       "rank": 150,
       "wr": 52.4,
-      "avgWrDelta": 4.61,
+      "avgWrDelta": 4.72,
       "pr": 5.62,
       "games": 916,
       "br": 0,
@@ -140472,7 +140472,7 @@
       "tier": "B",
       "rank": 94,
       "wr": 55.68,
-      "avgWrDelta": 7.87,
+      "avgWrDelta": 7.82,
       "pr": 7.01,
       "games": 1144,
       "br": 0,
@@ -142770,7 +142770,7 @@
       "tier": "B-",
       "rank": 103,
       "wr": 55.12,
-      "avgWrDelta": 4.69,
+      "avgWrDelta": 4.62,
       "pr": 8.74,
       "games": 1426,
       "br": 0,
@@ -150309,7 +150309,7 @@
       "tier": "B-",
       "rank": 104,
       "wr": 55.1,
-      "avgWrDelta": 5.9,
+      "avgWrDelta": 5.97,
       "pr": 4.38,
       "games": 715,
       "br": 0,
@@ -156783,7 +156783,7 @@
       "tier": "A",
       "rank": 42,
       "wr": 58.02,
-      "avgWrDelta": 9.85,
+      "avgWrDelta": 9.69,
       "pr": 4.28,
       "games": 698,
       "br": 0,
@@ -158850,7 +158850,7 @@
       "tier": "B-",
       "rank": 102,
       "wr": 55.25,
-      "avgWrDelta": 4.26,
+      "avgWrDelta": 4.2,
       "pr": 4.85,
       "games": 791,
       "br": 0,
@@ -163236,7 +163236,7 @@
       "tier": "B-",
       "rank": 111,
       "wr": 54.98,
-      "avgWrDelta": 7.28,
+      "avgWrDelta": 7.24,
       "pr": 8.12,
       "games": 1324,
       "br": 0,
@@ -167587,7 +167587,7 @@
       "tier": "C",
       "rank": 130,
       "wr": 53.76,
-      "avgWrDelta": 3.16,
+      "avgWrDelta": 3.13,
       "pr": 8.63,
       "games": 1408,
       "br": 0,
@@ -168720,7 +168720,7 @@
       "name": "Vex",
       "title": "the Gloomist",
       "tier": "C",
-      "rank": 133,
+      "rank": 132,
       "wr": 53.59,
       "avgWrDelta": 6.14,
       "pr": 3.67,
@@ -169676,7 +169676,7 @@
         "n": 599,
         "wr": 53.59,
         "pr": 2.94,
-        "rank": 133,
+        "rank": 132,
         "rankTotal": 173,
         "tier": "C"
       }
@@ -169689,7 +169689,7 @@
       "tier": "B",
       "rank": 88,
       "wr": 55.81,
-      "avgWrDelta": 5.46,
+      "avgWrDelta": 5.51,
       "pr": 6.33,
       "games": 1032,
       "br": 0,
@@ -180400,7 +180400,7 @@
       "name": "Nilah",
       "title": "the Joy Unbound",
       "tier": "B+",
-      "rank": 75,
+      "rank": 76,
       "wr": 56.24,
       "avgWrDelta": 5.16,
       "pr": 4.57,
@@ -181461,7 +181461,7 @@
         "n": 745,
         "wr": 56.24,
         "pr": 3.65,
-        "rank": 75,
+        "rank": 76,
         "rankTotal": 173,
         "tier": "B+"
       }
@@ -182490,7 +182490,7 @@
       "tier": "B+",
       "rank": 63,
       "wr": 56.95,
-      "avgWrDelta": 6.64,
+      "avgWrDelta": 6.61,
       "pr": 9.04,
       "games": 1475,
       "br": 0,
@@ -184613,7 +184613,7 @@
       "tier": "S+",
       "rank": 5,
       "wr": 62.53,
-      "avgWrDelta": 5.49,
+      "avgWrDelta": 5.45,
       "pr": 5.92,
       "games": 966,
       "br": 0,
